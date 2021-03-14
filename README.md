@@ -18,9 +18,9 @@ This step is completely necessary for the program to work.
 
 And it can be done using the following command:
 
-'''bash
+```bash
 export PATH=$PATH:(full path of the directory)
-'''
+```
 
 And the full path of the directory could be obtained using pwd.
 
@@ -31,9 +31,9 @@ The program has 2 options: two_groups and many_groups.
 
 Example:
 
-'''bash
+```bash
 master_flow.sh two_groups -c virus_genome_directory/ -n non_virus_directory/ -r reference_genome/reference.fasta -s 20,21,22 -p 10
-'''
+```
 
 Options:
 -h Displays help message.
@@ -48,9 +48,9 @@ Options:
 
 Example:
 
-'''bash
+```bash
 master_flow.sh many_groups -m genomes_directory/ -r reference_genome/reference.fasta -s 21,22 -p 4
-'''
+```
 Options:
 -h Displays help message.
  -m The directory that contains only the directory of each group that is going to be used.
@@ -62,7 +62,6 @@ Options:
 Note: master_flow.sh -h will display a help message with the information of the 2 flows. 
 And it’s important that in the directories of the fasta files of each group all the fasta files have the “.fasta” termination.
 
-===================
 ## create_genomeview_session
 
 ### Prerequisites:
@@ -70,11 +69,12 @@ java 7+ It can be installed using this instructions: https://phoenixnap.com/kb/h
 Or using this ones:
 https://openjdk.java.net/install/
 
+### Usage
 Example: 
 
-'''bash
+```bash
 create_genomeview_session.sh -r reference_genome.fasta -f output_files/ -s test_session.gvs 
-'''
+```
 
 Options:
 -h Display this message
