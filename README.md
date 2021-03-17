@@ -12,6 +12,11 @@ Or more information could be found here: https://docs.python-guide.org/starting/
 * bowtie2 2.4.2 This can be installed from here: https://sourceforge.net/projects/bowtie-bio/
 
 ## How to Download this Repository
+Use the following command in the desired directory:  
+
+```bash
+git clone https://github.com/pipecedeno/Conservation_Landscape.git
+```
 
 ## Add to path
 This step is completely necessary for the program to work.
