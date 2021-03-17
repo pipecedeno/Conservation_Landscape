@@ -17,6 +17,12 @@ Use the following command in the desired directory:
 ```bash
 git clone https://github.com/pipecedeno/Conservation_Landscape.git
 ```
+When you download the repository make sure to give execution permission to the bash and python files. This can be done with the following commands if you are located in the programs directory in your computer:
+
+```bash
+chmod +x *.sh
+chmod +x *.py
+```
 
 ## Add to path
 This step is completely necessary for the program to work.
