@@ -96,5 +96,5 @@ Options:
 Note: the session file and the .tdf files that are needed for genomeview will be saved in the same directory where the wig files are located.  
 
 This program uses the java programs necessary to pass the wig file to the .tdf that the genomeview needs to load the information. And the information of the software can be found here:
-The url of the genomeview is currently working, but it will added when it's available.
+http://genomeview.org/manual/Wig2tdf
 
