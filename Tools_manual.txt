@@ -1,0 +1,34 @@
+Tools
+
+
+identify_low_regions.py
+
+This program can identify the low regions that are present in a wig file. What is considered as a low region is a zone of values that are surrounded by some positions that have a value bigger than the specified by the user. This program will print a counting table in the terminal of the regions that fall in the classification that will be given by the user, and also will create a file which will indicate the regions, which will have the start of the region and the end (counting the positions from 0), the mean of the region, and the difference between the value given by the user and the mean value of the region.
+
+Options of this program:
+-f, --file: is the wig file in which the low regions are going to be searched.
+-l, --lower: value the region needs to be lower than to be reported (it must be between 0 and 1).
+-k, --kmer: size of the kmer used to produce the wig file.
+-c, -nclass: number of divisions in which the table of differences will be done.
+
+Example:
+identify_low_regions.py -f group1_20.wig -l 0.9 -k 20 -c 9
+
+In this case as the regions that are going to be reported can be from 0.9 to 0, the -c 9 will make it so that 9 divisions will be done, so the divisions will be separated by 0.1.
+
+--------------------------------------------
+
+tables_low_regions.sh
+
+This program will make a tsv file for each region that have a difference bigger than the indicated, this tsv file will be a contingency table where the columns will be the two groups indicated and the rows will be the amount of genomes with the reference bases and the amount of genomes that doesn’t have the reference bases, and the purpose is that this table could be used for a statistical analysis, like a fisher’s exact test.
+
+Options:
+-h Display this message
+-r This is the file of the regions that was created with identify_low_regions.py
+-f The wig file of the first group that is going to be used
+-s The wig file of the second group that is going to be used
+-d The value the difference should be bigger to create the contingency table
+-g The number of genomes in the first group (the one indicated by -f)
+This option can be a number or the directory of the first group so the program counts the genomes.
+-e The number of genomes in the second group (the one indicated by -s)	
+This option can be a number or the directory of the second group so the program counts the genomes.
