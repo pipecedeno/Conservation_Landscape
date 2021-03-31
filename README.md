@@ -27,13 +27,14 @@ chmod +x *.py
 ## Add to path
 This step is completely necessary for the program to work.
 
-And it can be done using the following command:
+This intructions were obtaine from https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7
 
-```bash
-export PATH=$PATH:(full path of the directory)
-```
+1.- Open the .bashrc file in your home directory (for example, /home/your-user-name/.bashrc) in a text editor.
+2.- Add export PATH=$PATH:your-dir to the last line of the file, where your-dir is the directory you want to add.
+3.- Save the .bashrc file.
+4.- Restart your terminal.
 
-And the full path of the directory could be obtained using pwd.
+And to test if the path was added after restarting the terminal you can use echo $PATH, to see if the directory is there.
 
 ## Program usage
 The program has 2 options: two_groups and many_groups.
