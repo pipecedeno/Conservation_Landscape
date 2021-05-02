@@ -46,7 +46,15 @@ do
 	mkdir -p intermediate/bowtie_db/${group}
 done
 
+#this directories are new for version2
 mkdir -p intermediate/sam_files
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/sam_files/${group}/${size_kmer}
+	done
+done
 mkdir -p intermediate/nums
 
 #A directory for each group is made in nums directory
@@ -57,6 +65,16 @@ done
 
 mkdir -p output_files
 
+#printing the parameters used in the time report file
+echo "Parameters:" >> output_files/time_report.txt
+echo "Principal group directory: ${principal_group_directory}" >> output_files/time_report.txt
+echo "Other group directory: ${other_group_directory}" >> output_files/time_report.txt
+echo "Reference genome: ${reference_genome}" >> output_files/time_report.txt
+echo "Sixes vector: ${vec}" >> output_files/time_report.txt
+echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
+echo "Output directory: ${output_dir}" >> output_files/time_report.txt
+echo ""  >> output_files/time_report.txt
+echo "Times:" >> output_files/time_report.txt
 
 #making the kmers files of the reference genome
 start=`date +%s`
@@ -73,7 +91,7 @@ do
 	if [ -n "$var_temp" ]
 	then
 		start=`date +%s`
-		find ${directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${var_temp}/ _${var_temp}_resul_file.samfinal
+		find ${directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${var_temp}/ 
 		end=`date +%s`
 		echo ${var_temp} databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 

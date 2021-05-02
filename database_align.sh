@@ -15,7 +15,7 @@ covid_dictionary_directory=$3
 
 resp_directory=$4
 
-output_name=$5
+#output_name=$5
 
 IFS=',' read -r -a sizes <<< "$vec"
 
@@ -30,7 +30,7 @@ for size_kmer in "${sizes[@]}"
 do
 	#instructions for covid genomes	
 	reads=$(find ${covid_dictionary_directory} -name ${size_kmer}'*'.fasta.dump)
-	bowtie2 -f -x intermediate/bowtie_db/${resp_directory}$name -U $reads --no-unal --no-hd | grep "MD:Z:${size_kmer}" | awk '{print $1}' >> intermediate/sam_files/${size_kmer}${output_name}
+	bowtie2 -f -x intermediate/bowtie_db/${resp_directory}$name -U $reads --no-unal --no-hd | grep "MD:Z:${size_kmer}" | awk '{print $1}' >> intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam
 	let size_kmer=$size_kmer+1
 done
 

@@ -7,10 +7,11 @@ is going to be for the other group, and each row will be the position of the kme
 kmer will be counted in the row 0. And the differences file is going to be created here too.
 '''
 import argparse
+from pathlib import Path
 
 parser = argparse.ArgumentParser(description="Receives the number of genomes and the size of the kmer")
-parser.add_argument("-p", "--psf",dest="psf",required=True) #principal group sam file
-parser.add_argument("-o", "--osf",dest="osf",required=True) #other group sam file
+parser.add_argument("-p", "--psf",dest="psf",required=True) #principal group sam files directory
+parser.add_argument("-o", "--osf",dest="osf",required=True) #other group sam files directory
 parser.add_argument("-r", "--ref", dest="ref", required=True) #reference genome file
 parser.add_argument("-d", "--des", dest="des", required=True) #directory where wigs are going to be saved
 parser.add_argument("-k", "--nmk", dest="nmk", required=True) #number of kmers
@@ -18,7 +19,12 @@ parser.add_argument("-n", "--ngp", dest="ngp", required=True) #number of genomes
 parser.add_argument("-m", "--nog", dest="nog", required=True) #number of genomes in other group
 parser.add_argument("-g", "--pgn", dest="pgn", required=True) #principal genomes group name
 parser.add_argument("-t", "--ogg", dest="ogg", required=True) #other genomes group name
+parser.add_argument("-s", "--size", dest="size", required=True) #size of the kmer
 args = parser.parse_args()
+
+#function to obtain the files in the desired directory
+def files_in_path(path):
+	return [path+obj.name for obj in Path(path).iterdir() if obj.is_file()]
 
 #This is only for obtaining the header that is necessary for the wigs
 file=open(args.ref, "r")
@@ -38,23 +44,28 @@ for cont in range(int(args.nmk)):
 	list_cont.append([0, 0])
 
 #Here the count for principal genomes is made
-file=open(args.psf, "r")
-for line in file:
-	pos=int(line.rstrip("\n"))-1
-	list_cont[pos][0]+=1
 
-file.close()
+list_files=files_in_path(args.psf)
+for file in list_files:
+	counts=open(file, "r")
+	for line in counts:
+		pos=int(line.rstrip("\n"))-1
+		list_cont[pos][0]+=1
+
+	counts.close()
 
 #Here the count for other genomes is made
-file=open(args.osf, "r")
-for line in file:
-	pos=int(line.rstrip("\n"))-1
-	list_cont[pos][1]+=1
+list_files=files_in_path(args.osf)
+for file in list_files:
+	counts=open(file, "r")
+	for line in counts:
+		pos=int(line.rstrip("\n"))-1
+		list_cont[pos][1]+=1
 
-file.close()
+	counts.close()
 
 #The output files are going to be opened and the header for each one is written
-kmer_size=int(args.psf.rstrip(".samfinal").split("/")[-1].split("_")[0])
+kmer_size=int(args.size)
 
 num_princ_genomes=int(args.ngp)
 num_other_genomes=int(args.nog)

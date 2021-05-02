@@ -15,6 +15,7 @@ be from 0 to 1. (This string must be in the format that de name of the group is 
 number of genomes, and a comma is separating each group. example: "group1:10,group2:25,group3:3")
 '''
 import argparse
+from pathlib import Path
 
 parser = argparse.ArgumentParser(description="Receives the number of genomes and the size of the kmer")
 parser.add_argument("-f", "--fil",dest="fil",required=True) #file that has all the other files
@@ -22,7 +23,12 @@ parser.add_argument("-r", "--ref", dest="ref", required=True) #reference genome 
 parser.add_argument("-d", "--des", dest="des", required=True) #directory where wigs are going to be saved
 parser.add_argument("-k", "--nmk", dest="nmk", required=True) #number of kmers
 parser.add_argument("-n", "--nmg", dest="nmg", required=True) #string of the number of genomes for group
+parser.add_argument("-s", "--size", dest="size", required=True) #size kmer
 args = parser.parse_args()
+
+#function to obtain the files in the desired directory
+def files_in_path(path):
+	return [path+obj.name for obj in Path(path).iterdir() if obj.is_file()]
 
 #This is only for obtaining the header that is necessary for the wigs
 file=open(args.ref, "r")
@@ -48,39 +54,41 @@ for cont in range(int(args.nmk)):
 	list_cont.append([0 for i in range(number_of_groups)])
 
 #the size of the kmers is obtained from the name of the args.file name
-kmer_size=int(args.fil.split("/")[-1].split("_")[0])
+kmer_size=int(args.size)
 
 #Here the count for the genomes is made, each line of the file of args.fil corresponds to a
-#file were the results of the alingments for each group was saved, so this file is opened and each
-#line is the position of a read that was aligned. group_order is important so that the counts for each group
-#don't get mixed
+#directory were the results of the alingments for each group was saved in individual files, so this file is 
+#opened and each line is a directory were all the file need to be processed to obtain the counts needed. 
+#group_order is important so that the counts for each group don't get mixed
 group_order=[]
 cont_pos=0
-file_files=open(args.fil, "r")
-for line in file_files:
-	file_name=line.rstrip("\n")
+file_directories=open(args.fil, "r")
+for line in file_directories:
+	directory_name=line.rstrip("\n")
 
-	group=file_name.split("/")[-1].split("_")[1]
+	#group=file_name.split("/")[-1].split("_")[1]
+	group=directory_name.split("/")[-3]
 	group_order.append(group)
 	number_of_genomes=num_per_genome[group]
 
-	file=open(file_name, "r")
-	for val in file:
-		pos=int(val.rstrip("\n"))-1
-		list_cont[pos][cont_pos]+=1
+	list_files=files_in_path(directory_name)
+	for file in list_files:
+		counts=open(file, "r")
+		for val in counts:
+			pos=int(val.rstrip("\n"))-1
+			list_cont[pos][cont_pos]+=1
 
-	file.close()
+		counts.close()
 
 	for i in range(len(list_cont)):
 		list_cont[i][cont_pos]=list_cont[i][cont_pos]/number_of_genomes
 
 	cont_pos+=1
-file_files.close()
+file_directories.close()
 
 #This part while write the output file for each group
 cont_pos=0
 for elem in group_order:
-	print(args.des+elem+"_"+str(kmer_size)+".wig")
 	file=open(args.des+elem+"_"+str(kmer_size)+".wig", "w")
 	file.write("variableStep chrom="+header+"\n")
 	

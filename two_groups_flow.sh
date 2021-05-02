@@ -42,10 +42,34 @@ mkdir -p intermediate/bowtie_db
 mkdir -p intermediate/bowtie_db/${princ_name}
 mkdir -p intermediate/bowtie_db/${other_name}
 mkdir -p intermediate/sam_files
+
+#This directories are new for version2 that is a directory for each group and for each size
+mkdir -p intermediate/sam_files/${princ_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/sam_files/${princ_name}/${size_kmer}
+done
+mkdir -p intermediate/sam_files/${other_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/sam_files/${other_name}/${size_kmer}
+done
+
 mkdir -p intermediate/nums
 mkdir -p intermediate/nums/${princ_name}
 mkdir -p intermediate/nums/${other_name}
 mkdir -p output_files
+
+#printing the parameters used in the time report file
+echo "Parameters:" >> output_files/time_report.txt
+echo "Principal group directory: ${principal_group_directory}" >> output_files/time_report.txt
+echo "Other group directory: ${other_group_directory}" >> output_files/time_report.txt
+echo "Reference genome: ${reference_genome}" >> output_files/time_report.txt
+echo "Sixes vector: ${vec}" >> output_files/time_report.txt
+echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
+echo "Output directory: ${output_dir}" >> output_files/time_report.txt
+echo ""  >> output_files/time_report.txt
+echo "Times:" >> output_files/time_report.txt
 
 #making the kmers files of the reference genome
 start=`date +%s`
@@ -56,11 +80,11 @@ echo making kmer files execution time was `expr $end - $start` seconds. >> outpu
 
 #principal group creating databases, making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
-find ${principal_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${princ_name}/ _${princ_name}_resul_file.samfinal
+find ${principal_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${princ_name}/
 end=`date +%s`
 echo Principal group databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-#concatenating all the counts for the python that is going to make the histogram
+#makign the histogram of the sizes of the genomes
 start=`date +%s`
 hist_size.py --nam intermediate/nums/${princ_name}/cont_final.numfin --des output_files/${princ_name}_sizes_hist.jpg
 #this will delete the numbers file as it's not needed anymore
@@ -70,12 +94,12 @@ echo Concatenating and making the histogram execution time was `expr $end - $sta
 
 #other group creating databases, making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
-find ${other_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${other_name}/ _${other_name}_resul_file.samfinal
+find ${other_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${other_name}/
 end=`date +%s`
 echo Other group databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
 
-#concatenating all the counts for the python that is going to make the histogram
+#makign the histogram of the sizes of the genomes
 start=`date +%s`
 hist_size.py --nam intermediate/nums/${other_name}/cont_final.numfin --des output_files/${other_name}_sizes_hist.jpg
 #this will delete the numbers file as it's not needed anymore
@@ -83,18 +107,18 @@ rm intermediate/nums/${other_name}/cont_final.numfin
 end=`date +%s`
 echo Concatenating and making the histogram execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-#countingeach group genomes genomes
+#counting each group genomes genomes
 start=`date +%s`
 num_principal_genomes=$(find ${principal_group_directory} -name '*'.fasta | wc -l)
 num_other_genomes=$(find ${other_group_directory} -name '*'.fasta | wc -l)
 end=`date +%s`
 echo Counting genomes execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-#executing the final part that is going to make the bedgraph files
+#executing the final part that is going to make the wig files
 start=`date +%s`
 parallel -P ${num_cores} two_groups_counts.sh {} ${reference_genome} ${num_principal_genomes} ${num_other_genomes} ${dictionary_directory} ${princ_name} ${other_name} ::: ${sizes[@]}
 end=`date +%s`
-echo Making bedgraphs execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
+echo Making wigs execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
 #deleting the intermediate folder
 rm -r intermediate/
