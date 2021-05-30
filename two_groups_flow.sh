@@ -42,6 +42,8 @@ mkdir -p intermediate/bowtie_db
 mkdir -p intermediate/bowtie_db/${princ_name}
 mkdir -p intermediate/bowtie_db/${other_name}
 mkdir -p intermediate/sam_files
+mkdir -p intermediate/ids_perfect_match
+mkdir -p intermediate/ids_not_perfect_match
 
 #This directories are new for version2 that is a directory for each group and for each size
 mkdir -p intermediate/sam_files/${princ_name}
@@ -53,6 +55,29 @@ mkdir -p intermediate/sam_files/${other_name}
 for size_kmer in "${sizes[@]}"
 do
 	mkdir -p intermediate/sam_files/${other_name}/${size_kmer}
+done
+
+#this new directories are for the version 3 of the program
+mkdir -p intermediate/ids_perfect_match/${princ_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_perfect_match/${princ_name}/${size_kmer}
+done
+mkdir -p intermediate/ids_perfect_match/${other_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_perfect_match/${other_name}/${size_kmer}
+done
+
+mkdir -p intermediate/ids_not_perfect_match/${princ_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_not_perfect_match/${princ_name}/${size_kmer}
+done
+mkdir -p intermediate/ids_not_perfect_match/${other_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_not_perfect_match/${other_name}/${size_kmer}
 done
 
 mkdir -p intermediate/nums

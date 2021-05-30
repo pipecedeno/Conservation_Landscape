@@ -55,6 +55,35 @@ do
 		mkdir -p intermediate/sam_files/${group}/${size_kmer}
 	done
 done
+
+#this directories are for version3
+mkdir -p intermediate/ids_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
+	done
+done
+
+mkdir -p intermediate/ids_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
+	done
+done
+
+mkdir -p intermediate/ids_not_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_not_perfect_match/${group}/${size_kmer}
+	done
+done
+
 mkdir -p intermediate/nums
 
 #A directory for each group is made in nums directory
