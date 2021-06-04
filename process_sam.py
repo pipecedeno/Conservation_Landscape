@@ -2,7 +2,7 @@
 
 import argparse
 #import re
-#from datetime import datetime
+from datetime import datetime
 
 '''
 This program will process the sam file (that is the output of the alignment of the reference kmers to the
@@ -19,7 +19,7 @@ parser.add_argument("-o", "--output", dest="output", required=True) #output file
 parser.add_argument("-s", "--size", dest="size", required=True) #size kmer
 args = parser.parse_args()
 
-#startTime = datetime.now()
+startTime = datetime.now()
 
 file=open(args.file,"r")
 resp=open(args.output,"w")
@@ -31,11 +31,19 @@ for line in file:
 	#this line doent work all the time because for some reason in some cases the MD:Z: is not always in the column 18
 	#(which is the 17 for python), so its better to do a for to get the element that has the MD:Z: 
 	#md_z=line_split[17]
-	md_z="".join([elem for elem in line_split if "MD:Z:" in line_split])
+	#apparently the list comprehension and the for take the same time to process the sam files
+	#md_z="".join([elem for elem in line_split if "MD:Z:" in elem])
+	for elem in line_split:
+		if("MD:Z:" in elem):
+			md_z=elem
+			break
+	#print(md_z)
 	temp=md_z.split(":")[-1]
+	#print(temp)
 	if(temp==size_kmer):
 		resp.write(str(line_split[0])+"\n")
 	elif((set(temp) <= set('1234567890N'))):
+		#print(temp)
 		resp.write(str(line_split[0])+"\n")
 	else:
 		continue
@@ -43,4 +51,4 @@ for line in file:
 file.close()
 resp.close()
 
-#print(datetime.now() - startTime)
+print(datetime.now() - startTime)
