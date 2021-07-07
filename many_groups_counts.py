@@ -18,8 +18,7 @@ import argparse
 from pathlib import Path
 
 parser = argparse.ArgumentParser(description="Receives the number of genomes and the size of the kmer")
-parser.add_argument("-f", "--fil",dest="fil",required=True) #file that has all the directories to process of perfect matches
-parser.add_argument("-i", "--fil2",dest="fil2",required=True) #file that has all the directories to process of not perfect matches
+parser.add_argument("-f", "--fil",dest="fil",required=True) #file that has all the other files
 parser.add_argument("-r", "--ref", dest="ref", required=True) #reference genome file
 parser.add_argument("-d", "--des", dest="des", required=True) #directory where wigs are going to be saved
 parser.add_argument("-k", "--nmk", dest="nmk", required=True) #number of kmers
@@ -87,91 +86,26 @@ for line in file_directories:
 	cont_pos+=1
 file_directories.close()
 
-
-#this is for not perfect matches 
-
-list_cont_not_perfect=[]
-for cont in range(int(args.nmk)):
-	list_cont_not_perfect.append([0 for i in range(number_of_groups)])
-
-group_order_not_perf=[]
-cont_pos=0
-file_directories=open(args.fil2, "r")
-for line in file_directories:
-	directory_name=line.rstrip("\n")
-
-	#group=file_name.split("/")[-1].split("_")[1]
-	group=directory_name.split("/")[-3]
-	group_order_not_perf.append(group)
-	number_of_genomes=num_per_genome[group]
-
-	list_files=files_in_path(directory_name)
-	for file in list_files:
-		counts=open(file, "r")
-		for val in counts:
-			pos=int(val.rstrip("\n"))-1
-			list_cont_not_perfect[pos][cont_pos]+=1
-
-		counts.close()
-
-	for i in range(len(list_cont_not_perfect)):
-		list_cont_not_perfect[i][cont_pos]=list_cont_not_perfect[i][cont_pos]/number_of_genomes
-
-	cont_pos+=1
-file_directories.close()
-
-
 #This part while write the output file for each group
 cont_pos=0
 for elem in group_order:
-	file=open(args.des+elem+"_"+str(kmer_size)+"_all_var.wig", "w")
+	file=open(args.des+elem+"_"+str(kmer_size)+".wig", "w")
 	file.write("variableStep chrom="+header+"\n")
 	
-	file_not_perf=open(args.des+elem+"_"+str(kmer_size)+"_only_mismatches.wig", "w")
-	file_not_perf.write("variableStep chrom="+header+"\n")
-
-	n_file=open(args.des+elem+"_"+str(kmer_size)+"_n_amounts.wig", "w")
-	n_file.write("variableStep chrom="+header+"\n")
-
-	#this gets the position of the not perfect counts in their matrix 
-	for cont_pos_not_perf in range(len(group_order_not_perf)):
-		if(group_order_not_perf[cont_pos_not_perf]==elem):
-			break
-
 	for i in range(len(list_cont)):
-		value_perfect=list_cont[i][cont_pos]
-		file.write(str(i)+" "+str(value_perfect)+"\n")
-
-		value_not_perfect=list_cont_not_perfect[i][cont_pos_not_perf]
-		file_not_perf.write(str(i)+" "+str(value_not_perfect)+"\n")
-
-		n_file.write(str(i)+" "+str(value_not_perfect-value_perfect)+"\n")
-		#n_file.write(str(i)+" "+str(value_perfect-value_not_perfect)+"\n")
+		value=list_cont[i][cont_pos]
+		file.write(str(i)+" "+str(value)+"\n")
 
 	cont_pos+=1
 	file.close()
-	file_not_perf.close()
-	n_file.close()
 
 #Here the file of the differences is going to be made, were the difference that is going to be
 #represented in the file is the maximum value minus the minimum value, so the difference is
 #always going to be positive
-file=open(args.des+"diff_"+str(kmer_size)+"_all_var.wig", "w")
+file=open(args.des+"diff_"+str(kmer_size)+".wig", "w")
 file.write("variableStep chrom="+header+"\n")
 cont=0
 for elem in list_cont:
-	maximum=max(elem)
-	minimum=min(elem)
-	file.write(str(cont)+" "+str(maximum-minimum)+"\n")
-	cont+=1
-
-file.close()
-
-
-file=open(args.des+"diff_"+str(kmer_size)+"_only_mismatches.wig", "w")
-file.write("variableStep chrom="+header+"\n")
-cont=0
-for elem in list_cont_not_perfect:
 	maximum=max(elem)
 	minimum=min(elem)
 	file.write(str(cont)+" "+str(maximum-minimum)+"\n")

@@ -30,12 +30,7 @@ for size_kmer in "${sizes[@]}"
 do
 	#instructions for covid genomes	
 	reads=$(find ${covid_dictionary_directory} -name ${size_kmer}'*'.fasta.dump)
-	bowtie2 -f -x intermediate/bowtie_db/${resp_directory}$name -U $reads --no-unal --no-hd > intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam
-	grep "MD:Z:${size_kmer}" intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam | awk '{print $1}' > intermediate/ids_perfect_match/${resp_directory}${size_kmer}/${name}.sam
-	process_sam.py -f intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam -o intermediate/ids_not_perfect_match/${resp_directory}${size_kmer}/${name}.sam -s ${size_kmer}
-	#This instruction is going to be used to delete the sam file because this file is only going to take a lot 
-	#of space and it's not necessary in further steps
-	rm intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam
+	bowtie2 -f -x intermediate/bowtie_db/${resp_directory}$name -U $reads --no-unal --no-hd | grep "MD:Z:${size_kmer}" | awk '{print $1}' >> intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam
 	let size_kmer=$size_kmer+1
 done
 

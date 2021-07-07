@@ -19,5 +19,9 @@ other_name=$7
 
 num_kmers=$(wc -l $(find ${dictionary_directory} -name ${size_kmer}'*'.fasta.dump) | awk '{print $1/2}')
 
-two_groups_counts.py --psf intermediate/ids_perfect_match/${princ_name}/${size_kmer}/ --osf intermediate/ids_perfect_match/${other_name}/${size_kmer}/ --pnp intermediate/ids_not_perfect_match/${princ_name}/${size_kmer}/ --onp intermediate/ids_not_perfect_match/${other_name}/${size_kmer}/ --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --ngp ${num_principal_genomes} --nog ${num_other_genomes} --pgn ${princ_name} --ogg ${other_name} --size ${size_kmer}
+#principal_file=$(find intermediate/sam_files/ -name ${size_kmer}_${princ_name}_resul_file.samfinal)
+
+#other_file=$(find intermediate/sam_files/ -name ${size_kmer}_${other_name}_resul_file.samfinal)
+
+two_groups_counts.py --psf intermediate/sam_files/${princ_name}/${size_kmer}/ --osf intermediate/sam_files/${other_name}/${size_kmer}/ --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --ngp ${num_principal_genomes} --nog ${num_other_genomes} --pgn ${princ_name} --ogg ${other_name} --size ${size_kmer}
 
