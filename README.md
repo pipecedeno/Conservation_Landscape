@@ -44,7 +44,7 @@ The program has 2 options: two_groups and many_groups.
 Example:
 
 ```bash
-master_flow.sh two_groups -c virus_genome_directory/ -n non_virus_directory/ -r reference_genome/reference.fasta -s 20,21,22 -p 10
+cov_dif.sh two_groups -c virus_genome_directory/ -n non_virus_directory/ -r reference_genome/reference.fasta -s 20,21,22 -p 10
 ```
 
 Options:  
@@ -61,7 +61,7 @@ Options:
 Example:
 
 ```bash
-master_flow.sh many_groups -m genomes_directory/ -r reference_genome/reference.fasta -s 21,22 -p 4
+cov_dif.sh many_groups -m genomes_directory/ -r reference_genome/reference.fasta -s 21,22 -p 4
 ```
 Options:  
 -h Displays help message.  
