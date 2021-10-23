@@ -38,12 +38,12 @@ done
 
 mkdir -p intermediate
 mkdir -p intermediate/dump_reference
-mkdir -p intermediate/bowtie_db
+mkdir -p intermediate/mod_genome
 
-#A directory for each group is made in bowtie_db directory
+#A directory for each group is made in mod_genome directory
 for group in "${groups_vec[@]}"
 do
-	mkdir -p intermediate/bowtie_db/${group}
+	mkdir -p intermediate/mod_genome/${group}
 done
 
 #this directories are new for version2
@@ -55,6 +55,35 @@ do
 		mkdir -p intermediate/sam_files/${group}/${size_kmer}
 	done
 done
+
+#this directories are for version3
+mkdir -p intermediate/ids_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
+	done
+done
+
+mkdir -p intermediate/ids_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
+	done
+done
+
+mkdir -p intermediate/ids_not_perfect_match
+for group in "${groups_vec[@]}"
+do
+	for size_kmer in "${sizes[@]}"
+	do
+		mkdir -p intermediate/ids_not_perfect_match/${group}/${size_kmer}
+	done
+done
+
 mkdir -p intermediate/nums
 
 #A directory for each group is made in nums directory
@@ -78,7 +107,7 @@ echo "Times:" >> output_files/time_report.txt
 
 #making the kmers files of the reference genome
 start=`date +%s`
-parallel -P ${num_cores} extrac_seq_perGene_write.py -i ${reference_genome} -o intermediate/dump_reference/{}_reference_genome.fasta.dump -k {} -w 1 ::: ${sizes[@]}
+parallel -P ${num_cores} extrac_seq_perGene_write.py -i ${reference_genome} -o intermediate/dump_reference/{}_reference_genome.fasta -k {} -w 1 ::: ${sizes[@]}
 dictionary_directory=intermediate/dump_reference/
 end=`date +%s`
 echo making kmer files execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
@@ -91,7 +120,8 @@ do
 	if [ -n "$var_temp" ]
 	then
 		start=`date +%s`
-		find ${directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${var_temp}/ 
+		#Note: the false in this line is added to always use the option of filling the gaps in the alignments  
+		find ${directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${var_temp}/ false
 		end=`date +%s`
 		echo ${var_temp} databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
@@ -128,7 +158,7 @@ done
 end=`date +%s`
 echo Counting genomes execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-#executing the final part that is going to make the bedgraph files
+#executing the final part that is going to make the wig files
 start=`date +%s`
 parallel -P ${num_cores} many_groups_counts.sh {} ${reference_genome} ${counts} ${dictionary_directory} ${groups_directory} ::: ${sizes[@]}
 end=`date +%s`

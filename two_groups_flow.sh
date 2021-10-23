@@ -3,16 +3,18 @@
 #This program controls all the commands and programs that should be executed in a particular order to 
 #complete this flow
 
-while getopts "c:n:r:s:p:o:" option
+while getopts "x:y:c:n:r:s:p:o:" option
 do
 case "${option}"
 in
 c) principal_group_directory=${OPTARG};;
 n) other_group_directory=${OPTARG};;
 r) reference_genome=${OPTARG};;
-s) vec=${OPTARG};;
+s) vec=${OPTARG};; #contains the values of the sizes
 p) num_cores=${OPTARG};;
 o) output_dir=${OPTARG};;
+x) normal_process_princ=${OPTARG};;
+y) normal_process_other=${OPTARG};;
 :) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 esac
 done
@@ -38,10 +40,12 @@ other_name=${var_temp##*/}
 #making the directories
 mkdir -p intermediate
 mkdir -p intermediate/dump_reference 
-mkdir -p intermediate/bowtie_db
-mkdir -p intermediate/bowtie_db/${princ_name}
-mkdir -p intermediate/bowtie_db/${other_name}
+mkdir -p intermediate/mod_genome
+mkdir -p intermediate/mod_genome/${princ_name}
+mkdir -p intermediate/mod_genome/${other_name}
 mkdir -p intermediate/sam_files
+mkdir -p intermediate/ids_perfect_match
+mkdir -p intermediate/ids_not_perfect_match
 
 #This directories are new for version2 that is a directory for each group and for each size
 mkdir -p intermediate/sam_files/${princ_name}
@@ -55,6 +59,29 @@ do
 	mkdir -p intermediate/sam_files/${other_name}/${size_kmer}
 done
 
+#this new directories are for the version 3 of the program
+mkdir -p intermediate/ids_perfect_match/${princ_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_perfect_match/${princ_name}/${size_kmer}
+done
+mkdir -p intermediate/ids_perfect_match/${other_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_perfect_match/${other_name}/${size_kmer}
+done
+
+mkdir -p intermediate/ids_not_perfect_match/${princ_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_not_perfect_match/${princ_name}/${size_kmer}
+done
+mkdir -p intermediate/ids_not_perfect_match/${other_name}
+for size_kmer in "${sizes[@]}"
+do
+	mkdir -p intermediate/ids_not_perfect_match/${other_name}/${size_kmer}
+done
+
 mkdir -p intermediate/nums
 mkdir -p intermediate/nums/${princ_name}
 mkdir -p intermediate/nums/${other_name}
@@ -65,26 +92,32 @@ echo "Parameters:" >> output_files/time_report.txt
 echo "Principal group directory: ${principal_group_directory}" >> output_files/time_report.txt
 echo "Other group directory: ${other_group_directory}" >> output_files/time_report.txt
 echo "Reference genome: ${reference_genome}" >> output_files/time_report.txt
-echo "Sixes vector: ${vec}" >> output_files/time_report.txt
+echo "Sizes vector: ${vec}" >> output_files/time_report.txt
 echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
 echo "Output directory: ${output_dir}" >> output_files/time_report.txt
+echo "-x ${normal_process_princ}"
+echo "-y ${normal_process_other}"
 echo ""  >> output_files/time_report.txt
 echo "Times:" >> output_files/time_report.txt
 
 #making the kmers files of the reference genome
 start=`date +%s`
-parallel -P ${num_cores} extrac_seq_perGene_write.py -i ${reference_genome} -o intermediate/dump_reference/{}_reference_genome.fasta.dump -k {} -w 1 ::: ${sizes[@]}
+parallel -P ${num_cores} extrac_seq_perGene_write.py -i ${reference_genome} -o intermediate/dump_reference/{}_reference_genome.fasta -k {} -w 1 ::: ${sizes[@]}
 dictionary_directory=intermediate/dump_reference/
 end=`date +%s`
 echo making kmer files execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
+echo "1"
+echo "princ ${normal_process_princ}"
+echo "other ${normal_process_other}"
+
 #principal group creating databases, making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
-find ${principal_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${princ_name}/
+find ${principal_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${princ_name}/ ${normal_process_princ}
 end=`date +%s`
 echo Principal group databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-#makign the histogram of the sizes of the genomes
+#making the histogram of the sizes of the genomes
 start=`date +%s`
 hist_size.py --nam intermediate/nums/${princ_name}/cont_final.numfin --des output_files/${princ_name}_sizes_hist.jpg
 #this will delete the numbers file as it's not needed anymore
@@ -92,9 +125,13 @@ rm intermediate/nums/${princ_name}/cont_final.numfin
 end=`date +%s`
 echo Concatenating and making the histogram execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
+echo "2"
+echo "princ ${normal_process_princ}"
+echo "other ${normal_process_other}"
+
 #other group creating databases, making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
-find ${other_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${other_name}/
+find ${other_group_directory} -name '*'.fasta | parallel -P ${num_cores} database_align.sh {} ${vec} ${dictionary_directory} ${other_name}/ ${normal_process_other}
 end=`date +%s`
 echo Other group databases execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 

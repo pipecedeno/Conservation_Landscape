@@ -3,15 +3,20 @@
 #This program is for selecting which of the 2 flows is going to be used and it checks that the inputs
 #are the correct for the flow selected
 
-while getopts ":h" opt; do
-  case ${opt} in
-    h )
-    	echo "Usage:"
+print_all_usage(){
+	echo "Usage:"
     	echo "    -h                      Display this help message."
     	echo "    two_groups [options]"
     	echo "    many_groups [options]"
     	echo ""
-    	echo "Usage of option two_groups: "
+    	print_two_usage
+    	echo ""
+    	print_many_usage
+    	echo ""
+}
+
+print_two_usage() {
+		echo "Usage of option two_groups: "
 		echo "	-h Display this message."
 		echo "	-c The group of interest directory."
 		echo "	-n The other group directory."
@@ -19,16 +24,25 @@ while getopts ":h" opt; do
 		echo "	-s (Optional) If given it is the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23."
 		echo "		If not given the sizes are going to be from 20 to 25."
 		echo "	-p (Optional) Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
-	    echo "	-o Is the place where the directory with the output files is going to be saved"
-	    echo ""
-	    echo "Usage of option many_groups: "
+		echo "	-o Is the place where the directory with the output files is going to be saved"
+		echo "	-x Do not fill the gaps of kmers with N in the groups of interest."
+		echo "	-y Do not fill the gaps of kmers with N in the other group."
+}
+
+print_many_usage() {
+		echo "Usage of option many_groups: "
 		echo "	-m The directory that contains the directory of each group that is going to be used."
 		echo "	-r The reference genome fasta file."
 		echo "	-s (Optional) If given it is the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23."
 		echo "		If not given the sizes are going to be from 20 to 25."
 		echo "	-p Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
-	    echo "	-o Is the place where the directory with the output files is going to be saved"
-	    echo ""
+		echo "	-o Is the place where the directory with the output files is going to be saved"
+}
+
+while getopts ":h" opt; do
+  case ${opt} in
+    h )
+	  	print_all_usage
 	    exit 0
       ;;
    \? )
@@ -50,21 +64,17 @@ case "$subcommand" in
   two_groups)
     two_groups_flag=1  # Remove 'two_groups' from the argument list
 
+    #added flags to fill the gaps or not of the conservative track
+    normal_process_princ='false'
+    normal_process_other='false'
+
     # Process options
-    while getopts ":hc:n:r:s:p:o:" option
+    while getopts ":hc:n:r:s:p:o:xy" option
     do
 	case "${option}"
 	in
 	h)
-		echo "Usage of option two_groups: "
-		echo "	-h Display this message."
-		echo "	-c The group of interest directory."
-		echo "	-n The other group directory."
-		echo "	-r The reference_genome fasta file."
-		echo "	-s (Optional) If given it is the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23."
-		echo "		If not given the sizes are going to be from 20 to 25."
-		echo "	-p (Optional) Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
-		echo "	-o Is the place where the directory with the output files is going to be saved"
+		print_two_usage
 		exit 0
 		;;
 	c) princ_group_dir=${OPTARG};;
@@ -73,6 +83,8 @@ case "$subcommand" in
 	s) vec=${OPTARG};;
 	p) num_cores=${OPTARG};;
 	o) output_dir=${OPTARG};;
+	x) normal_process_princ='true';;
+	y) normal_process_other='true';;
 	:) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 	\? )
      echo "Invalid Option: -$OPTARG" 1>&2
@@ -90,13 +102,7 @@ case "$subcommand" in
 	case "${option}"
 	in
 	h)
-		echo "Usage of option many_groups: "
-		echo "	-m The directory that contains the directory of each group that is going to be used."
-		echo "	-r The reference genome fasta file."
-		echo "	-s (Optional) If given it is the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23."
-		echo "		If not given the sizes are going to be from 20 to 25."
-		echo "	-p Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
-		echo "	-o Is the place where the directory with the output files is going to be saved"
+		print_many_usage
 		exit 0
 		;;
 	m) groups_directory=${OPTARG};;
@@ -132,10 +138,6 @@ then
 		echo "-c option is empty"
 		exit
 	else
-		#if [ "${princ_group_dir: -1}" != "/" ]
-		#then
-			#princ_group_dir+="/"
-		#fi
 		temp=$(realpath ${princ_group_dir})
 		princ_group_dir=${temp}"/"
 	fi
@@ -145,10 +147,6 @@ then
 		echo "-n option is empty"
 		exit
 	else
-		#if [ "${other_group_dir: -1}" != "/" ]
-		#then
-			#other_group_dir+="/"
-		#fi
 		temp=$(realpath ${other_group_dir})
 		other_group_dir=${temp}"/"
 	fi
@@ -180,8 +178,11 @@ then
 	else
 		output_dir=$(realpath ${output_dir})"/"
 	fi
+	echo "covdif"
+	echo "princ ${normal_process_princ}"
+	echo "other ${normal_process_other}"
 
-	two_groups_flow.sh -c ${princ_group_dir} -n ${other_group_dir} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir}
+	two_groups_flow.sh -c ${princ_group_dir} -n ${other_group_dir} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir} -x ${normal_process_princ} -y ${normal_process_other}
 fi
 
 if [ "$many_groups_flag" -eq "1" ]
@@ -192,10 +193,6 @@ then
 		echo "-m option is empty"
 		exit
 	else
-		#if [ "${groups_directory: -1}" != "/" ]
-		#then
-		#	groups_directory+="/"
-		#fi
 		temp=$(realpath ${groups_directory})
 		groups_directory=${temp}"/"
 	fi

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #Here the some specific files are selected and some specific numbers are calculated to give the correct
 #inputs to the python program that will create the output files
@@ -15,12 +15,17 @@ dictionary_directory=$4
 
 #As many files need to be processed by the python program a file with the name of the programs it needs to process is made
 #so only a file is always passed to the program.
-for directory in $(find intermediate/sam_files/ -type d -name ${size_kmer})
+for directory in $(find intermediate/ids_perfect_match/ -type d -name ${size_kmer})
 do
-	echo "${directory}/" >> intermediate/${size_kmer}_files_names.txt
+	echo "${directory}/" >> intermediate/${size_kmer}_files_names_perfect_match.txt
+done
+
+for directory in $(find intermediate/ids_not_perfect_match/ -type d -name ${size_kmer})
+do
+	echo "${directory}/" >> intermediate/${size_kmer}_files_names_not_perfect_match.txt
 done
 
 #The count of the number of kmers is made
-num_kmers=$(wc -l $(find ${dictionary_directory} -name ${size_kmer}'*'.fasta.dump) | awk '{print $1/2}')
+num_kmers=$(wc -l $(find ${dictionary_directory} -name ${size_kmer}'*'.fasta) | awk '{print $1/2}')
 
-many_groups_counts.py --fil intermediate/${size_kmer}_files_names.txt --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --nmg ${num_genomes} --size ${size_kmer}
+many_groups_counts.py --fil intermediate/${size_kmer}_files_names_perfect_match.txt --fil2 intermediate/${size_kmer}_files_names_not_perfect_match.txt --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --nmg ${num_genomes} --size ${size_kmer}
