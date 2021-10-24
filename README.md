@@ -9,7 +9,7 @@ Linux based operating System.
 Or more information could be found here: https://docs.python-guide.org/starting/install3/linux/
 * matplotlib 3.3.2 This can be installed from here https://matplotlib.org/stable/users/installing.html
 * biopython 1.78 This can be installed from here: https://biopython.org/wiki/Download
-* bowtie2 2.4.2 This can be installed from here: https://sourceforge.net/projects/bowtie-bio/
+* razers 3.5.8 (seqan 2.4.0) Can be installed from: https://github.com/seqan/seqan/tree/master/apps/razers3
 
 ## How to Download this Repository
 Use the following command in the desired directory:  
@@ -54,7 +54,9 @@ Options:
 -r The file of the reference genome (.fasta file).  
 -s (Optional) If given it’s the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23. If not given the sizes for default are going to be from 20 to 25.  
 -p (Optional) Is the number of cores/threads that are going to be used, if not given 1 is going to be used.  
--o Is the place where the directory with the output files is going to be saved  
+-o Is the place where the directory with the output files is going to be saved 
+-x Do not fill the gaps of kmers with N in the groups of interest.
+-y Do not fill the gaps of kmers with N in the other group.
 
 ### many_groups usage
 
