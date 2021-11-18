@@ -1,0 +1,19 @@
+Parameters:
+Principal group directory: /home/laptop/CovDif/test_data/genomes/gh/
+Other group directory: /home/laptop/CovDif/test_data/genomes/l/
+Reference genome: /home/laptop/CovDif/test_data/reference_genome/covid_reference.fasta
+Sizes vector: 20
+Number of cores: 1
+Output directory: /home/laptop/CovDif/test_data/test_twogroups/
+-x false
+-y false
+
+Times:
+making kmer files execution time was 0 seconds.
+Principal group alignments execution time was 1 seconds.
+Concatenating and making the histogram execution time was 0 seconds.
+Other group alignments execution time was 1 seconds.
+Concatenating and making the histogram execution time was 1 seconds.
+Counting genomes execution time was 0 seconds.
+Making wigs execution time was 0 seconds.
+Total execution time was 3 seconds.
