@@ -3,7 +3,9 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: changed the name of the directories of intermediate, so now ids_perfect_match are ids_relaxed and 
+# ids_not_perfect_match are ids_conservative
 
 # Program Description:
 # This program is used to aligned the reference kmers to a genome, so it can be runned in parallel. It uses
@@ -53,16 +55,16 @@ do
 	razers3 -ng -mN -i 95 ${mod_fasta} ${reads} -o intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam
 
 	#alignment for relaxed track
-	grep "MD:Z:${size_kmer}" intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam | awk '{print $1}' | uniq > intermediate/ids_perfect_match/${resp_directory}${size_kmer}/${name}.sam
+	grep "MD:Z:${size_kmer}" intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam | awk '{print $1}' | uniq > intermediate/ids_relaxed/${resp_directory}${size_kmer}/${name}.sam
 	
 	#alignment for conservative track
 	if [ ${normal_process} = true ]
 	then
 		#echo "normal"
-		normal_process_sam.py -f intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam -s ${size_kmer} | uniq > intermediate/ids_not_perfect_match/${resp_directory}${size_kmer}/${name}.sam
+		normal_process_sam.py -f intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam -s ${size_kmer} | uniq > intermediate/ids_conservative/${resp_directory}${size_kmer}/${name}.sam
 	else
 		#echo "fill"
-		fill_process_sam.py -f intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam -s ${size_kmer} | uniq > intermediate/ids_not_perfect_match/${resp_directory}${size_kmer}/${name}.sam
+		fill_process_sam.py -f intermediate/sam_files/${resp_directory}${size_kmer}/${name}.sam -s ${size_kmer} | uniq > intermediate/ids_conservative/${resp_directory}${size_kmer}/${name}.sam
 	fi
 
 	#This instruction is going to be used to delete the sam file
@@ -70,7 +72,7 @@ do
 	let size_kmer=$size_kmer+1
 done
 
-#This line is for deleting the bowtie databases that are going to be created 
+#This line is for deleting the modified genomes that only have ATCG or N
 rm ${mod_fasta}
 
 #this is for counting the size of the genome to later make the histogram of the sizes and now

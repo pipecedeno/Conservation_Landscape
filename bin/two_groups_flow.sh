@@ -3,7 +3,11 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: changed the name of some directories in the intermediate directory (the name of the directories of 
+# intermediate, so now ids_perfect_match are ids_relaxed and ids_not_perfect_match are 
+# ids_conservative) and added an option to delete or not the intermediate directory.
+
 
 # Program Description:
 # This program controls all the commands and programs that should be executed in a particular order to 
@@ -19,12 +23,13 @@
 # 	-o Is the place where the directory with the output files is going to be saved
 # 	-x Do not fill the gaps of kmers with N in the groups of interest.
 # 	-y Do not fill the gaps of kmers with N in the other group.
+# 	-d If this flag is used the intermediate folder won't be deleted
 ######
 
 
 
 
-while getopts "x:y:c:n:r:s:p:o:" option
+while getopts "x:y:c:n:r:s:p:o:d:" option
 do
 case "${option}"
 in
@@ -36,6 +41,7 @@ p) num_cores=${OPTARG};;
 o) output_dir=${OPTARG};;
 x) normal_process_princ=${OPTARG};;
 y) normal_process_other=${OPTARG};;
+d) delete_intermediate=${OPTARG};;
 :) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 esac
 done
@@ -65,10 +71,9 @@ mkdir -p intermediate/mod_genome
 mkdir -p intermediate/mod_genome/${princ_name}
 mkdir -p intermediate/mod_genome/${other_name}
 mkdir -p intermediate/sam_files
-mkdir -p intermediate/ids_perfect_match
-mkdir -p intermediate/ids_not_perfect_match
+mkdir -p intermediate/ids_relaxed
+mkdir -p intermediate/ids_conservative
 
-#This directories are new for version2 that is a directory for each group and for each size
 mkdir -p intermediate/sam_files/${princ_name}
 for size_kmer in "${sizes[@]}"
 do
@@ -80,27 +85,26 @@ do
 	mkdir -p intermediate/sam_files/${other_name}/${size_kmer}
 done
 
-#this new directories are for the version 3 of the program
-mkdir -p intermediate/ids_perfect_match/${princ_name}
+mkdir -p intermediate/ids_relaxed/${princ_name}
 for size_kmer in "${sizes[@]}"
 do
-	mkdir -p intermediate/ids_perfect_match/${princ_name}/${size_kmer}
+	mkdir -p intermediate/ids_relaxed/${princ_name}/${size_kmer}
 done
-mkdir -p intermediate/ids_perfect_match/${other_name}
+mkdir -p intermediate/ids_relaxed/${other_name}
 for size_kmer in "${sizes[@]}"
 do
-	mkdir -p intermediate/ids_perfect_match/${other_name}/${size_kmer}
+	mkdir -p intermediate/ids_relaxed/${other_name}/${size_kmer}
 done
 
-mkdir -p intermediate/ids_not_perfect_match/${princ_name}
+mkdir -p intermediate/ids_conservative/${princ_name}
 for size_kmer in "${sizes[@]}"
 do
-	mkdir -p intermediate/ids_not_perfect_match/${princ_name}/${size_kmer}
+	mkdir -p intermediate/ids_conservative/${princ_name}/${size_kmer}
 done
-mkdir -p intermediate/ids_not_perfect_match/${other_name}
+mkdir -p intermediate/ids_conservative/${other_name}
 for size_kmer in "${sizes[@]}"
 do
-	mkdir -p intermediate/ids_not_perfect_match/${other_name}/${size_kmer}
+	mkdir -p intermediate/ids_conservative/${other_name}/${size_kmer}
 done
 
 mkdir -p intermediate/nums
@@ -116,8 +120,8 @@ echo "Reference genome: ${reference_genome}" >> output_files/time_report.txt
 echo "Sizes vector: ${vec}" >> output_files/time_report.txt
 echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
 echo "Output directory: ${output_dir}" >> output_files/time_report.txt
-echo "-x ${normal_process_princ}"
-echo "-y ${normal_process_other}"
+echo "-x ${normal_process_princ}" >> output_files/time_report.txt
+echo "-y ${normal_process_other}" >> output_files/time_report.txt
 echo ""  >> output_files/time_report.txt
 echo "Times:" >> output_files/time_report.txt
 
@@ -128,9 +132,9 @@ dictionary_directory=intermediate/dump_reference/
 end=`date +%s`
 echo making kmer files execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-echo "1"
-echo "princ ${normal_process_princ}"
-echo "other ${normal_process_other}"
+# echo "1"
+# echo "princ ${normal_process_princ}"
+# echo "other ${normal_process_other}"
 
 #principal group making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
@@ -146,9 +150,9 @@ rm intermediate/nums/${princ_name}/cont_final.numfin
 end=`date +%s`
 echo Concatenating and making the histogram execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
-echo "2"
-echo "princ ${normal_process_princ}"
-echo "other ${normal_process_other}"
+# echo "2"
+# echo "princ ${normal_process_princ}"
+# echo "other ${normal_process_other}"
 
 #other group making the alignments and counting the size of the genomes for the histogram
 start=`date +%s`
@@ -179,7 +183,15 @@ end=`date +%s`
 echo Making wigs execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
 #deleting the intermediate folder
-rm -r intermediate/
+if [ ${delete_intermediate} = true ]
+then
+	rm -r intermediate/
+else
+	rm -r intermediate/dump_reference/
+	rm -r intermediate/mod_genome/
+	rm -r intermediate/nums/
+	rm -r intermediate/sam_files/
+fi
 
 end_fin=`date +%s`
 echo Total execution time was `expr $end_fin - $start_fin` seconds. >> output_files/time_report.txt

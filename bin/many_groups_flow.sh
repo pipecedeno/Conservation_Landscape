@@ -3,7 +3,10 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: changed the name of some directories in the intermediate directory (the name of the directories of 
+# intermediate, so now ids_perfect_match are ids_relaxed and ids_not_perfect_match are 
+# ids_conservative) and added an option to delete or not the intermediate directory.
 
 # Program Description:
 # This program controls all the commands and programs that should be executed in a particular order to 
@@ -18,11 +21,12 @@
 # 		If not given the sizes are going to be from 20 to 25.
 # 	-p Is the number of cores/threads that is gonna be used, if not given 1 is going to be used.
 # 	-o Is the place where the directory with the output files is going to be saved
+# 	-d If this flag is used the intermediate folder won't be deleted
 
 ######
 
 
-while getopts "m:r:s:p:o:" option
+while getopts "m:r:s:p:o:d:" option
 do
 case "${option}"
 in
@@ -31,6 +35,7 @@ r) reference_genome=${OPTARG};;
 s) vec=${OPTARG};;
 p) num_cores=${OPTARG};;
 o) output_dir=${OPTARG};;
+d) delete_intermediate=${OPTARG};;
 :) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 esac
 done
@@ -65,7 +70,6 @@ do
 	mkdir -p intermediate/mod_genome/${group}
 done
 
-#this directories are new for version2
 mkdir -p intermediate/sam_files
 for group in "${groups_vec[@]}"
 do
@@ -75,31 +79,21 @@ do
 	done
 done
 
-#this directories are for version3
-mkdir -p intermediate/ids_perfect_match
+mkdir -p intermediate/ids_relaxed
 for group in "${groups_vec[@]}"
 do
 	for size_kmer in "${sizes[@]}"
 	do
-		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
+		mkdir -p intermediate/ids_relaxed/${group}/${size_kmer}
 	done
 done
 
-mkdir -p intermediate/ids_perfect_match
+mkdir -p intermediate/ids_conservative
 for group in "${groups_vec[@]}"
 do
 	for size_kmer in "${sizes[@]}"
 	do
-		mkdir -p intermediate/ids_perfect_match/${group}/${size_kmer}
-	done
-done
-
-mkdir -p intermediate/ids_not_perfect_match
-for group in "${groups_vec[@]}"
-do
-	for size_kmer in "${sizes[@]}"
-	do
-		mkdir -p intermediate/ids_not_perfect_match/${group}/${size_kmer}
+		mkdir -p intermediate/ids_conservative/${group}/${size_kmer}
 	done
 done
 
@@ -184,7 +178,17 @@ end=`date +%s`
 echo Making bedgraphs execution time was `expr $end - $start` seconds. >> output_files/time_report.txt
 
 #deleting the intermediate folder
-rm -r intermediate/
+if [ ${delete_intermediate} = true ]
+then
+	rm -r intermediate/
+else
+	rm -r intermediate/dump_reference/
+	rm -r intermediate/mod_genome/
+	rm -r intermediate/nums/
+	rm -r intermediate/sam_files/
+	rm intermediate/*_files_names_conservative.txt
+	rm intermediate/*_files_names_relaxed.txt
+fi
 
 end_fin=`date +%s`
 echo Total execution time was `expr $end_fin - $start_fin` seconds. >> output_files/time_report.txt

@@ -3,7 +3,9 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: changed the name of the directories of intermediate, so now ids_perfect_match are ids_relaxed and 
+# ids_not_perfect_match are ids_conservative
 
 # Program Description:
 # This program will execute the program two_groups_counts.py and is used so that program can be parallelized.
@@ -35,5 +37,5 @@ other_name=$7
 
 num_kmers=$(wc -l $(find ${dictionary_directory} -name ${size_kmer}'*'.fasta) | awk '{print $1/2}')
 
-two_groups_counts.py --psf intermediate/ids_perfect_match/${princ_name}/${size_kmer}/ --osf intermediate/ids_perfect_match/${other_name}/${size_kmer}/ --pnp intermediate/ids_not_perfect_match/${princ_name}/${size_kmer}/ --onp intermediate/ids_not_perfect_match/${other_name}/${size_kmer}/ --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --ngp ${num_principal_genomes} --nog ${num_other_genomes} --pgn ${princ_name} --ogg ${other_name} --size ${size_kmer}
+two_groups_counts.py --psf intermediate/ids_relaxed/${princ_name}/${size_kmer}/ --osf intermediate/ids_relaxed/${other_name}/${size_kmer}/ --pnp intermediate/ids_conservative/${princ_name}/${size_kmer}/ --onp intermediate/ids_conservative/${other_name}/${size_kmer}/ --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --ngp ${num_principal_genomes} --nog ${num_other_genomes} --pgn ${princ_name} --ogg ${other_name} --size ${size_kmer}
 

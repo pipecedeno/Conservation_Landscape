@@ -3,7 +3,9 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: changed the name of the directories of intermediate, so now ids_perfect_match are ids_relaxed and 
+# ids_not_perfect_match are ids_conservative
 
 # Program Description:
 # This program is executed before many_groups_counts.py and it will create some files that are necessary
@@ -28,19 +30,17 @@ num_genomes=$3
 
 dictionary_directory=$4
 
-#As many files need to be processed by the python program a file with the name of the programs it needs to process is made
-#so only a file is always passed to the program.
-for directory in $(find intermediate/ids_perfect_match/ -type d -name ${size_kmer})
+for directory in $(find intermediate/ids_relaxed/ -type d -name ${size_kmer})
 do
-	echo "${directory}/" >> intermediate/${size_kmer}_files_names_perfect_match.txt
+	echo "${directory}/" >> intermediate/${size_kmer}_files_names_relaxed.txt
 done
 
-for directory in $(find intermediate/ids_not_perfect_match/ -type d -name ${size_kmer})
+for directory in $(find intermediate/ids_conservative/ -type d -name ${size_kmer})
 do
-	echo "${directory}/" >> intermediate/${size_kmer}_files_names_not_perfect_match.txt
+	echo "${directory}/" >> intermediate/${size_kmer}_files_names_conservative.txt
 done
 
 #The count of the number of kmers is made
 num_kmers=$(wc -l $(find ${dictionary_directory} -name ${size_kmer}'*'.fasta) | awk '{print $1/2}')
 
-many_groups_counts.py --fil intermediate/${size_kmer}_files_names_perfect_match.txt --fil2 intermediate/${size_kmer}_files_names_not_perfect_match.txt --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --nmg ${num_genomes} --size ${size_kmer}
+many_groups_counts.py --fil intermediate/${size_kmer}_files_names_relaxed.txt --fil2 intermediate/${size_kmer}_files_names_conservative.txt --ref ${reference_genome} --des output_files/ --nmk ${num_kmers} --nmg ${num_genomes} --size ${size_kmer}

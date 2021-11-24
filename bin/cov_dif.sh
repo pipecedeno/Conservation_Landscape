@@ -3,7 +3,8 @@
 ######
 # Date: 17/Nov/2021
 # Author name: Luis Felipe Cedeño Pérez (pipecedeno@gmail.com)
-# version: 1.0
+# version: 1.1
+# 1.1: added an option to delete or not the intermediate directory.
 
 # Program Description:
 # This program can be used to compare the conservation of 2 or more groups of genomes based on a reference
@@ -27,6 +28,7 @@
 # 	-o Is the place where the directory with the output files is going to be saved
 # 	-x Do not fill the gaps of kmers with N in the groups of interest.
 # 	-y Do not fill the gaps of kmers with N in the other group.
+# 	-d If this flag is used the intermediate folder won't be deleted
 
 # Usage of option many_groups: 
 # 	-m The directory that contains the directory of each group that is going to be used.
@@ -37,6 +39,7 @@
 # 		If not given the sizes are going to be from 20 to 25.
 # 	-p Is the number of cores/threads that is gonna be used, if not given 1 is going to be used.
 # 	-o Is the place where the directory with the output files is going to be saved
+# 	-d If this flag is used the intermediate folder won't be deleted
 ######
 
 
@@ -64,6 +67,7 @@ print_two_usage() {
 		echo "	-o Is the place where the directory with the output files is going to be saved"
 		echo "	-x Do not fill the gaps of kmers with N in the groups of interest."
 		echo "	-y Do not fill the gaps of kmers with N in the other group."
+		echo "	-d If this flag is used the intermediate folder won't be deleted"
 }
 
 print_many_usage() {
@@ -74,6 +78,7 @@ print_many_usage() {
 		echo "		If not given the sizes are going to be from 20 to 25."
 		echo "	-p Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
 		echo "	-o Is the place where the directory with the output files is going to be saved"
+		echo "	-d If this flag is used the intermediate folder won't be deleted"
 }
 
 while getopts ":h" opt; do
@@ -99,15 +104,18 @@ subcommand=$1; shift
 case "$subcommand" in
   # Parse options to the two_groups sub command
   two_groups)
-    two_groups_flag=1  # Remove 'two_groups' from the argument list
+  two_groups_flag=1  # Remove 'two_groups' from the argument list
 
-    #added flags to fill the gaps or not of the conservative track
-    normal_process_princ='false'
-    normal_process_other='false'
+  #added flags to fill the gaps or not of the conservative track
+  normal_process_princ='false'
+  normal_process_other='false'
 
-    # Process options
-    while getopts ":hc:n:r:s:p:o:xy" option
-    do
+  #flag to know if intermediate should be deleted or not
+  delete_intermediate='true'
+
+  # Process options
+  while getopts ":hc:n:r:s:p:o:xyd" option
+  do
 	case "${option}"
 	in
 	h)
@@ -122,6 +130,7 @@ case "$subcommand" in
 	o) output_dir=${OPTARG};;
 	x) normal_process_princ='true';;
 	y) normal_process_other='true';;
+	d) delete_intermediate='false';;
 	:) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 	\? )
      echo "Invalid Option: -$OPTARG" 1>&2
@@ -133,8 +142,11 @@ case "$subcommand" in
   many_groups)
 	many_groups_flag=1  # Remove 'many_groups' from the argument list
 
+	#flag to know if intermediate should be deleted or not
+  delete_intermediate='true'
+
 	# Process options
-	while getopts ":hm:r:s:p:o:" option
+	while getopts ":hm:r:s:p:o:d" option
 	do
 	case "${option}"
 	in
@@ -147,6 +159,7 @@ case "$subcommand" in
 	s) vec=${OPTARG};;
 	p) num_cores=${OPTARG};;
 	o) output_dir=${OPTARG};;
+	d) delete_intermediate='false';;
 	:) echo "Missing option argument for -$OPTARG" >&2; exit 1;;
 	\? )
      echo "Invalid Option: -$OPTARG" 1>&2
@@ -156,8 +169,6 @@ case "$subcommand" in
 	done
 	;;
 esac
-#echo "two_groups_flag: ${two_groups_flag}"
-#echo "many_groups_flag: ${many_groups_flag}"
 
 if [ "$two_groups_flag" -eq "0" ] && [ "$many_groups_flag" -eq "0" ]
 then
@@ -215,11 +226,8 @@ then
 	else
 		output_dir=$(realpath ${output_dir})"/"
 	fi
-	echo "covdif"
-	echo "princ ${normal_process_princ}"
-	echo "other ${normal_process_other}"
 
-	two_groups_flow.sh -c ${princ_group_dir} -n ${other_group_dir} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir} -x ${normal_process_princ} -y ${normal_process_other}
+	two_groups_flow.sh -c ${princ_group_dir} -n ${other_group_dir} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir} -x ${normal_process_princ} -y ${normal_process_other} -d ${delete_intermediate}
 fi
 
 if [ "$many_groups_flag" -eq "1" ]
@@ -262,5 +270,5 @@ then
 		output_dir=$(realpath ${output_dir})"/"
 	fi
 
-	many_groups_flow.sh -m ${groups_directory} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir}
+	many_groups_flow.sh -m ${groups_directory} -r ${reference_genome} -s ${vec} -p ${num_cores} -o ${output_dir} -d ${delete_intermediate}
 fi
