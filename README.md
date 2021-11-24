@@ -70,6 +70,7 @@ Options:
 -o Is the place where the directory with the output files is going to be saved.  
 -x Do not fill the gaps of kmers with N in the groups of interest.  
 -y Do not fill the gaps of kmers with N in the other group.  
+-d If this flag is used the intermediate folder won't be deleted.  
 
 It’s important that in the directories of the fasta files of each group all the fasta files have the “.fasta” termination, any file with another termination will be ignored.  
 
@@ -87,6 +88,7 @@ Options:
 -s (Optional) If given it’s the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23. If not given the sizes for default are going to be from 20 to 25.  
 -p (Optional) Is the number of cores/threads that are going to be used, if not given 1 is going to be used.  
 -o Is the place where the directory with the output files is going to be saved, if you want it to be saved in your current director you can use ".".  
+-d If this flag is used the intermediate folder won't be deleted.  
 
 Note: cov_dif.sh -h will display a help message with the information of the 2 flows.  
 It’s important that in the directories of the fasta files of each group all the fasta files have the “.fasta” termination, any file with another termination will be ignored. Also it's important to clarify that the directory of fasta files (the one given by -m) should only contain the directory of each group, where the name of these directories is important as they will be the name of the output files, and the folders of each group shouldn't contain any more directories within it.  
