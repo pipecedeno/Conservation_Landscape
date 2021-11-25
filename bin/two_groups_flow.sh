@@ -122,6 +122,7 @@ echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
 echo "Output directory: ${output_dir}" >> output_files/time_report.txt
 echo "-x ${normal_process_princ}" >> output_files/time_report.txt
 echo "-y ${normal_process_other}" >> output_files/time_report.txt
+echo "-d ${delete_intermediate}" >> output_files/time_report.txt
 echo ""  >> output_files/time_report.txt
 echo "Times:" >> output_files/time_report.txt
 

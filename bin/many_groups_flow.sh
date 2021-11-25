@@ -115,6 +115,7 @@ echo "Reference genome: ${reference_genome}" >> output_files/time_report.txt
 echo "Sizes vector: ${vec}" >> output_files/time_report.txt
 echo "Number of cores: ${num_cores}" >> output_files/time_report.txt
 echo "Output directory: ${output_dir}" >> output_files/time_report.txt
+echo "-d ${delete_intermediate}" >> output_files/time_report.txt
 echo ""  >> output_files/time_report.txt
 echo "Times:" >> output_files/time_report.txt
 
