@@ -93,6 +93,22 @@ Options:
 Note: cov_dif.sh -h will display a help message with the information of the 2 flows.  
 It’s important that in the directories of the fasta files of each group all the fasta files have the “.fasta” termination, any file with another termination will be ignored. Also it's important to clarify that the directory of fasta files (the one given by -m) should only contain the directory of each group, where the name of these directories is important as they will be the name of the output files, and the folders of each group shouldn't contain any more directories within it.  
 
+### snp_files usage
+
+Example: 
+
+```bash
+cov_dif.sh snp_files -l g_snps/ v_snps/ l_snps/ -r reference_genome/covid_reference.fasta -o test_many_20 -k 20
+```
+Options:  
+-k (optional) is the size of the kmer that is going to be used to simulate the conservation landscapes  
+	if not given is going to be 1 and it will be a landscape of base conservation  
+-l list of directories that have the .snps file to process  
+	Note: only files that finish with .snps are going to be used by the program.  
+-o output directory were the files are going to be saved (if it doesn't exist the program will create it)  
+-r reference genome (it's used to know the length of the genome and the get the header that is going to be used for the wig files)  
+
+
 ## create_genomeview_session
 
 ### Prerequisites:
