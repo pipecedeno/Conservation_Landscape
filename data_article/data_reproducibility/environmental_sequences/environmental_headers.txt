@@ -1,0 +1,1918 @@
+>ENA|A10937|A10937.1 Human rhinovirus 89 (HRV89), complete genome
+>ENA|AB126191|AB126191.2 Influenza C virus (C/Ann Arbor/1/50) PB2 gene for polymerase 2, complete cds.
+>ENA|AB126192|AB126192.2 Influenza C virus (C/Ann Arbor/1/50) PB1 gene for polymerase 1, complete cds.
+>ENA|AB126193|AB126193.2 Influenza C virus (C/Ann Arbor/1/50) P3 gene for polymerase 3, complete cds.
+>ENA|AB126194|AB126194.2 Influenza C virus (C/Ann Arbor/1/50) HEF gene for hemagglutinin-esterase-fusion, complete cds.
+>ENA|AB126195|AB126195.1 Influenza C virus (C/Ann Arbor/1/50) NP gene for nucleoprotein, complete cds.
+>ENA|AB126196|AB126196.2 Influenza C virus (C/Ann Arbor/1/50) M1, CM2 genes for matrix protein, CM2 protein, complete cds.
+>ENA|AB283001|AB283001.1 Influenza C virus (C/Ann Arbor/1/50) genomic RNA, segment 7, complete sequence.
+>ENA|AB543336|AB543336.1 Human parainfluenza virus 4a viral cRNA, complete genome, strain: M-25.
+>ENA|AE001363|AE001363.1 Chlamydophila pneumoniae CWL029, complete genome.
+>ENA|AE002161|AE002161.1 Chlamydophila pneumoniae AR39, complete genome.
+>ENA|AE002163|AE002163.1 Chlamydia phage phiCPAR39, complete sequence.
+>ENA|AE004092|AE004092.1 Streptococcus pyogenes M1 GAS, complete genome.
+>ENA|AE004092|AE004092.2 Streptococcus pyogenes M1 GAS, complete genome.
+>ENA|AE009440|AE009440.1 Chlamydophila pneumoniae TW-183, complete genome.
+>ENA|AE009949|AE009949.1 Streptococcus pyogenes MGAS8232, complete genome.
+>ENA|AE014074|AE014074.1 Streptococcus pyogenes MGAS315, complete genome.
+>ENA|AE017354|AE017354.1 Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome.
+>ENA|AF039205|AF039205.1 Coxsackievirus B6 strain Schmitt, complete genome.
+>ENA|AF081485|AF081485.1 Coxsackievirus B2 strain Ohio, complete genome.
+>ENA|AF101982|AF101982.1 Influenza B virus (B/Lee/40) polymerase (PB2) gene, complete cds.
+>ENA|AF102017|AF102017.1 Influenza B virus (B/Lee/40) polymerase (PA) gene, complete cds.
+>ENA|AF114383|AF114383.1 Coxsackievirus B5 strain Faulkner, complete genome.
+>ENA|AF144300|AF144300.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) polymerase (PB2) gene, complete cds.
+>ENA|AF144301|AF144301.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) polymerase (PB1) gene, complete cds.
+>ENA|AF144302|AF144302.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) polymerase (PA) gene, complete cds.
+>ENA|AF144303|AF144303.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) nucleocapsid protein (NP) gene, complete cds.
+>ENA|AF144304|AF144304.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) neuraminidase (NA) gene, complete cds.
+>ENA|AF144305|AF144305.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) hemagglutinin (HA) gene, complete cds.
+>ENA|AF144306|AF144306.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) matrix proteins M1 and M2 (M) gene, alternatively spliced products, complete cds.
+>ENA|AF144307|AF144307.1 Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) nonstructural proteins NS1 and NS2 (NS) gene, alternatively spliced products, complete cds.
+>ENA|AF371337|AF371337.2 Human metapneumovirus isolate 00-1, complete genome.
+>ENA|AF457102|AF457102.1 HPIV-1 strain Washington/1964, complete genome.
+>ENA|AF499635|AF499635.1 Human coxsackievirus A1 strain Tompkins, complete genome.
+>ENA|AF499636|AF499636.1 Human coxsackievirus A11 strain Belgium-1, complete genome.
+>ENA|AF499637|AF499637.1 Human coxsackievirus A13 strain Flores, complete genome.
+>ENA|AF499639|AF499639.1 Human coxsackievirus A17 strain G12, complete genome.
+>ENA|AF499640|AF499640.1 Human coxsackievirus A18 strain G13, complete genome.
+>ENA|AF499641|AF499641.1 Human coxsackievirus A19 strain 8663, complete genome.
+>ENA|AF499642|AF499642.1 Human coxsackievirus A20 strain IH35, complete genome.
+>ENA|AF499643|AF499643.1 Human coxsackievirus A22 strain Chulman, complete genome.
+>ENA|AF546702|AF546702.1 Human coxsackievirus A21 strain Kuykendall, complete genome.
+>ENA|AJ278646|AJ278646.1 Influenza A virus (A/Hong Kong/1073/99(H9N2)) M1 gene for matrix protein 1 and M2 gene for matrix protein 2, genomic RNA, strain A/Hong Kong/1073/99 (H9N2)
+>ENA|AJ278649|AJ278649.1 Influenza A virus (A/Hong Kong/1073/99(H9N2)) NS1 gene for nonstructural protein 1 and NS2 gene for nonstructural protein 2, genomic RNA, strain A/Hong Kong/1073/99
+>ENA|AJ289871|AJ289871.1 Influenza A virus (A/Hong Kong/1073/99(H9N2)) np gene for nucleoprotein, genomic RNA, strain A/Hong Kong/1073/99
+>ENA|AJ404626|AJ404626.1 Influenza A virus ha gene for Hemagglutinin, genomic RNA, strain A/Hong Kong/1073/99(H9N2)
+>ENA|AJ404629|AJ404629.1 Influenza A virus na gene for neuraminidase, genomic RNA, strain A/Hong Kong/1073/99(H9N2)
+>ENA|AJ404630|AJ404630.1 Influenza A virus pb2 gene for polymerase Pb2, genomic RNA, strain A/Hong Kong/1073/99(H9N2)
+>ENA|AJ404634|AJ404634.1 Influenza A virus pb1 gene for polymerase Pb1, genomic RNA, strain A/Hong Kong/1073/99(H9N2)
+>ENA|AJ404637|AJ404637.1 Influenza A virus pa gene for polymerase PA, genomic RNA, strain A/Hong Kong/1073/99(H9N2)
+>ENA|AM295007|AM295007.1 Streptococcus pyogenes Manfredo complete genome
+>ENA|AP012303|AP012303.1 Mycoplasma pneumoniae 309 DNA, complete genome.
+>ENA|AP012335|AP012335.1 Streptococcus pyogenes JRS4 DNA, complete genome.
+>ENA|AP012491|AP012491.1 Streptococcus pyogenes M1 476 DNA, complete genome.
+>ENA|AP012491|AP012491.2 Streptococcus pyogenes M1 476 DNA, complete genome.
+>ENA|AP014572|AP014572.1 Streptococcus pyogenes DNA, complete genome, strain: MTB313.
+>ENA|AP014585|AP014585.1 Streptococcus pyogenes DNA, complete genome, strain: MTB314.
+>ENA|AP014596|AP014596.1 Streptococcus pyogenes DNA, complete genome, strain: M3-b.
+>ENA|AP017318|AP017318.1 Mycoplasma pneumoniae DNA, complete genome, strain: KCH-402.
+>ENA|AP017319|AP017319.1 Mycoplasma pneumoniae DNA, complete genome, strain: KCH-405.
+>ENA|AP017629|AP017629.1 Streptococcus pyogenes DNA, complete genome, strain: JMUB1235.
+>ENA|AP018005|AP018005.1 Candidatus Rickettsiella viridis DNA, complete genome, strain: Ap-RA04.
+>ENA|AP018337|AP018337.1 Streptococcus pyogenes DNA, complete genome, strain: KS030.
+>ENA|AP019548|AP019548.1 Streptococcus pyogenes 10-85 DNA, complete genome.
+>ENA|AP019548|AP019548.2 Streptococcus pyogenes 10-85 DNA, complete genome.
+>ENA|AY209932|AY209932.1 Influenza A virus (A/Korea/426/68(H2N2)) neuraminidase (NA) gene, complete cds.
+>ENA|AY210103|AY210103.1 Influenza A virus (A/Korea/426/68(H2N2)) nucleoprotein (NP) gene, complete cds.
+>ENA|AY210191|AY210191.1 Influenza A virus (A/Korea/426/68(H2N2)) non-structural protein NS2 (NS) and non-structural protein NS1 (NS) genes, complete cds.
+>ENA|AY297749|AY297749.1 Human metapneumovirus isolate CAN97-83, complete genome.
+>ENA|AY355268|AY355268.1 Human rhinovirus 87 VP1 capsid protein gene, partial cds.
+>ENA|AY421760|AY421760.1 Human coxsackievirus A2 strain Fleetwood, complete genome.
+>ENA|AY421761|AY421761.1 Human coxsackievirus A3 strain Olson, complete genome.
+>ENA|AY421762|AY421762.1 Human coxsackievirus A4 strain High Point, complete genome.
+>ENA|AY421763|AY421763.1 Human coxsackievirus A5 strain Swartz, complete genome.
+>ENA|AY421764|AY421764.1 Human coxsackievirus A6 strain Gdula, complete genome.
+>ENA|AY421765|AY421765.1 Human coxsackievirus A7 strain Parker, complete genome.
+>ENA|AY421766|AY421766.1 Human coxsackievirus A8 strain Donovan, complete genome.
+>ENA|AY421767|AY421767.1 Human coxsackievirus A10 strain Kowalik, complete genome.
+>ENA|AY421768|AY421768.1 Human coxsackievirus A12 strain Texas-12, complete genome.
+>ENA|AY421769|AY421769.1 Human coxsackievirus A14 strain G-14, complete genome.
+>ENA|AY525843|AY525843.1 Human metapneumovirus isolate NL/1/99, complete genome.
+>ENA|AY567487|AY567487.2 Human Coronavirus NL63, complete genome.
+>ENA|AY751783|AY751783.1 Human rhinovirus 39, complete genome.
+>ENA|BA000008|BA000008.3 Chlamydophila pneumoniae J138 genomic DNA, complete sequence.
+>ENA|BA000034|BA000034.2 Streptococcus pyogenes SSI-1 DNA, complete genome.
+>ENA|CP000003|CP000003.1 Streptococcus pyogenes MGAS10394, complete genome.
+>ENA|CP000017|CP000017.1 Streptococcus pyogenes MGAS5005, complete genome.
+>ENA|CP000017|CP000017.2 Streptococcus pyogenes MGAS5005, complete genome.
+>ENA|CP000056|CP000056.1 Streptococcus pyogenes MGAS6180, complete genome.
+>ENA|CP000056|CP000056.2 Streptococcus pyogenes MGAS6180 chromosome, complete genome.
+>ENA|CP000057|CP000057.2 Haemophilus influenzae 86-028NP, complete genome.
+>ENA|CP000259|CP000259.1 Streptococcus pyogenes MGAS9429, complete genome.
+>ENA|CP000260|CP000260.1 Streptococcus pyogenes MGAS10270, complete genome.
+>ENA|CP000261|CP000261.1 Streptococcus pyogenes MGAS2096, complete genome.
+>ENA|CP000262|CP000262.1 Streptococcus pyogenes MGAS10750, complete genome.
+>ENA|CP000671|CP000671.1 Haemophilus influenzae PittEE, complete genome.
+>ENA|CP000672|CP000672.1 Haemophilus influenzae PittGG, complete genome.
+>ENA|CP000675|CP000675.2 Legionella pneumophila str. Corby, complete genome.
+>ENA|CP000829|CP000829.1 Streptococcus pyogenes NZ131, complete genome.
+>ENA|CP001713|CP001713.1 Chlamydophila pneumoniae LPCoLN, complete genome.
+>ENA|CP001828|CP001828.1 Legionella pneumophila 2300/99 Alcoy, complete genome.
+>ENA|CP002077|CP002077.1 Mycoplasma pneumoniae FH, complete genome.
+>ENA|CP002276|CP002276.1 Haemophilus influenzae R2846, complete genome.
+>ENA|CP002277|CP002277.1 Haemophilus influenzae R2866, complete genome.
+>ENA|CP003023|CP003023.1 Legionella pneumophila subsp. pneumophila str. Hextuple_2q strain Lp02 chromosome, complete genome.
+>ENA|CP003024|CP003024.1 Legionella pneumophila subsp. pneumophila str. Hextuple_3a strain Lp02 chromosome, complete genome.
+>ENA|CP003068|CP003068.1 Streptococcus pyogenes Alab49, complete genome.
+>ENA|CP003116|CP003116.1 Streptococcus pyogenes MGAS15252, complete genome.
+>ENA|CP003121|CP003121.1 Streptococcus pyogenes MGAS1882, complete genome.
+>ENA|CP003192|CP003192.1 Legionella pneumophila subsp. pneumophila ATCC 43290, complete genome.
+>ENA|CP003730|CP003730.1 Legionella pneumophila subsp. pneumophila str. Thunder Bay, complete genome.
+>ENA|CP003885|CP003885.1 Legionella pneumophila subsp. pneumophila LPE509, complete genome.
+>ENA|CP003901|CP003901.1 Streptococcus pyogenes A20, complete genome.
+>ENA|CP003913|CP003913.1 Mycoplasma pneumoniae M129-B7, complete genome.
+>ENA|CP003913|CP003913.2 Mycoplasma pneumoniae M129-B7, complete genome.
+>ENA|CP004006|CP004006.1 Legionella oakridgensis ATCC 33761 = DSM 21215, complete genome.
+>ENA|CP005967|CP005967.1 Haemophilus influenzae KR494, complete genome.
+>ENA|CP006366|CP006366.1 Streptococcus pyogenes HSC5, complete genome.
+>ENA|CP007023|CP007023.1 Streptococcus pyogenes STAB1102 genome.
+>ENA|CP007024|CP007024.1 Streptococcus pyogenes STAB901, complete genome.
+>ENA|CP007041|CP007041.1 Streptococcus pyogenes STAB902, complete genome.
+>ENA|CP007240|CP007240.1 Streptococcus pyogenes strain 7F7, complete genome.
+>ENA|CP007241|CP007241.1 Streptococcus pyogenes strain 1E1, complete genome.
+>ENA|CP007470|CP007470.1 Haemophilus influenzae strain 477, complete genome.
+>ENA|CP007471|CP007471.1 Haemophilus influenzae strain C486, complete genome.
+>ENA|CP007472|CP007472.1 Haemophilus influenzae strain 723, complete genome.
+>ENA|CP007537|CP007537.1 Streptococcus pyogenes strain AP1, complete genome.
+>ENA|CP007560|CP007560.1 Streptococcus pyogenes strain NGAS743, complete genome.
+>ENA|CP007561|CP007561.1 Streptococcus pyogenes strain NGAS596, complete genome.
+>ENA|CP007562|CP007562.1 Streptococcus pyogenes strain NGAS327, complete genome.
+>ENA|CP007805|CP007805.1 Haemophilus influenzae CGSHiCZ412602, complete genome.
+>ENA|CP008695|CP008695.1 Streptococcus pyogenes strain M23ND, complete genome.
+>ENA|CP008740|CP008740.1 Haemophilus influenzae 2019, complete genome.
+>ENA|CP008776|CP008776.1 Streptococcus pyogenes strain 5448, complete genome.
+>ENA|CP008895|CP008895.1 Mycoplasma pneumoniae M29, complete genome.
+>ENA|CP008926|CP008926.1 Streptococcus pyogenes strain ATCC 19615, complete genome.
+>ENA|CP009610|CP009610.1 Haemophilus influenzae strain Hi375, complete genome.
+>ENA|CP009612|CP009612.1 Streptococcus pyogenes strain HKU360, complete genome.
+>ENA|CP010449|CP010449.1 Streptococcus pyogenes strain NGAS322, complete genome.
+>ENA|CP010450|CP010450.1 Streptococcus pyogenes strain NGAS638, complete genome.
+>ENA|CP010538|CP010538.1 Mycoplasma pneumoniae PI 1428, complete genome.
+>ENA|CP010539|CP010539.1 Mycoplasma pneumoniae 19294, complete genome.
+>ENA|CP010540|CP010540.1 Mycoplasma pneumoniae 39443, complete genome.
+>ENA|CP010541|CP010541.1 Mycoplasma pneumoniae 51494, complete genome.
+>ENA|CP010542|CP010542.1 Mycoplasma pneumoniae 54089, complete genome.
+>ENA|CP010543|CP010543.1 Mycoplasma pneumoniae 54524, complete genome.
+>ENA|CP010544|CP010544.1 Mycoplasma pneumoniae 85084, complete genome.
+>ENA|CP010545|CP010545.1 Mycoplasma pneumoniae 85138, complete genome.
+>ENA|CP010546|CP010546.1 Mycoplasma pneumoniae FH, complete genome.
+>ENA|CP010547|CP010547.1 Mycoplasma pneumoniae M1139, complete genome.
+>ENA|CP010548|CP010548.1 Mycoplasma pneumoniae strain M2192, complete genome.
+>ENA|CP010549|CP010549.1 Mycoplasma pneumoniae M2592, complete genome.
+>ENA|CP010550|CP010550.1 Mycoplasma pneumoniae MAC strain Mac, complete genome.
+>ENA|CP010551|CP010551.1 Mycoplasma pneumoniae PO1, complete genome.
+>ENA|CP011068|CP011068.1 Streptococcus pyogenes strain STAB10015, complete genome.
+>ENA|CP011069|CP011069.1 Streptococcus pyogenes strain STAB09014, complete genome.
+>ENA|CP011105|CP011105.1 Legionella pneumophila strain L10-023, complete genome.
+>ENA|CP011414|CP011414.1 Streptococcus pyogenes JRS4, complete genome.
+>ENA|CP011415|CP011415.1 Streptococcus pyogenes strain D471, complete genome.
+>ENA|CP011535|CP011535.1 Streptococcus pyogenes strain M28PF1, complete genome.
+>ENA|CP011535|CP011535.2 Streptococcus pyogenes strain M28PF1, complete genome.
+>ENA|CP012019|CP012019.1 Legionella pneumophila subsp. pneumophila strain Toronto-2005, complete genome.
+>ENA|CP012045|CP012045.1 Streptococcus pyogenes strain HKU488, complete genome.
+>ENA|CP012391|CP012391.1 Neisseria meningitidis strain DE8669, complete genome.
+>ENA|CP012392|CP012392.1 Neisseria meningitidis strain DE10444, complete genome.
+>ENA|CP012393|CP012393.1 Neisseria meningitidis strain DE8555, complete genome.
+>ENA|CP013672|CP013672.1 Streptococcus pyogenes strain AP53, complete genome.
+>ENA|CP013829|CP013829.1 Mycoplasma pneumoniae strain S355, complete genome.
+>ENA|CP013838|CP013838.1 Streptococcus pyogenes strain MGAS11027, complete genome.
+>ENA|CP013839|CP013839.1 Streptococcus pyogenes strain MGAS23530, complete genome.
+>ENA|CP013840|CP013840.1 Streptococcus pyogenes strain MGAS27061, complete genome.
+>ENA|CP014027|CP014027.1 Streptococcus pyogenes strain FDAARGOS_149, complete genome.
+>ENA|CP014027|CP014027.2 Streptococcus pyogenes strain FDAARGOS_149, complete genome.
+>ENA|CP014138|CP014138.1 Streptococcus pyogenes strain MEW427, complete genome.
+>ENA|CP014139|CP014139.1 Streptococcus pyogenes strain MEW123, complete genome.
+>ENA|CP014255|CP014255.1 Legionella pneumophila subsp. pascullei strain F-4185, complete genome.
+>ENA|CP014255|CP014255.2 Legionella pneumophila subsp. pascullei strain F-4185 chromosome, complete genome.
+>ENA|CP014256|CP014256.1 Legionella pneumophila subsp. pascullei strain D-7158, complete genome.
+>ENA|CP014257|CP014257.1 Legionella pneumophila subsp. pascullei strain D-7119, complete genome.
+>ENA|CP014267|CP014267.1 Mycoplasma pneumoniae strain C267, complete genome.
+>ENA|CP014278|CP014278.1 Streptococcus pyogenes strain STAB13021 genome.
+>ENA|CP014278|CP014278.2 Streptococcus pyogenes strain STAB13021 genome.
+>ENA|CP014542|CP014542.1 Streptococcus pyogenes strain STAB14018, complete genome.
+>ENA|CP014759|CP014759.1 Legionella pneumophila strain F4468, complete genome.
+>ENA|CP014760|CP014760.1 Legionella pneumophila strain F4469, complete genome.
+>ENA|CP015238|CP015238.1 Streptococcus pyogenes strain NS53, complete genome.
+>ENA|CP015238|CP015238.2 Streptococcus pyogenes strain NS53, complete genome.
+>ENA|CP015342|CP015342.1 Legionella pneumophila strain D-7632, complete genome.
+>ENA|CP015343|CP015343.1 Legionella pneumophila strain D-7631, complete genome.
+>ENA|CP015344|CP015344.1 Legionella pneumophila strain D-7630, complete genome.
+>ENA|CP015925|CP015925.1 Legionella pneumophila strain E10_P, complete genome.
+>ENA|CP015926|CP015926.1 Legionella pneumophila strain E11_U, complete genome.
+>ENA|CP015927|CP015927.1 Legionella pneumophila strain Philadelphia_1_ATCC, complete genome.
+>ENA|CP015928|CP015928.1 Legionella pneumophila strain Philadelphia_1_CDC, complete genome.
+>ENA|CP015929|CP015929.1 Legionella pneumophila strain Philadelphia_2, complete genome.
+>ENA|CP015930|CP015930.1 Legionella pneumophila strain Philadelphia_3, complete genome.
+>ENA|CP015931|CP015931.1 Legionella pneumophila strain Philadelphia_4, complete genome.
+>ENA|CP015932|CP015932.1 Legionella pneumophila strain C1_S, complete genome.
+>ENA|CP015933|CP015933.1 Legionella pneumophila strain C2_S, complete genome.
+>ENA|CP015934|CP015934.1 Legionella pneumophila strain C3_O, complete genome.
+>ENA|CP015935|CP015935.1 Legionella pneumophila strain C4_S, complete genome.
+>ENA|CP015936|CP015936.1 Legionella pneumophila strain C5_P, complete genome.
+>ENA|CP015937|CP015937.1 Legionella pneumophila strain C6_S, complete genome.
+>ENA|CP015938|CP015938.1 Legionella pneumophila strain C7_O, complete genome.
+>ENA|CP015939|CP015939.1 Legionella pneumophila strain C8_S, complete genome.
+>ENA|CP015941|CP015941.1 Legionella pneumophila strain C9_S, complete genome.
+>ENA|CP015944|CP015944.1 Legionella pneumophila strain C10_S, complete genome.
+>ENA|CP015945|CP015945.1 Legionella pneumophila strain C11_O, complete genome.
+>ENA|CP015946|CP015946.1 Legionella pneumophila strain E1_P, complete genome.
+>ENA|CP015947|CP015947.1 Legionella pneumophila strain E2_N, complete genome.
+>ENA|CP015949|CP015949.1 Legionella pneumophila strain E3_N, complete genome.
+>ENA|CP015950|CP015950.1 Legionella pneumophila strain E4_N, complete genome.
+>ENA|CP015951|CP015951.1 Legionella pneumophila strain E5_N, complete genome.
+>ENA|CP015953|CP015953.1 Legionella pneumophila strain E6_N, complete genome.
+>ENA|CP015954|CP015954.1 Legionella pneumophila strain E7_O, complete genome.
+>ENA|CP015955|CP015955.1 Legionella pneumophila strain E8_O, complete genome.
+>ENA|CP015956|CP015956.1 Legionella pneumophila strain E9_O, complete genome.
+>ENA|CP016029|CP016029.1 Legionella pneumophila strain Pontiac, complete genome.
+>ENA|CP016029|CP016029.2 Legionella pneumophila strain Pontiac, complete genome.
+>ENA|CP016030|CP016030.1 Legionella pneumophila strain OLDA, complete genome.
+>ENA|CP016030|CP016030.2 Legionella pneumophila strain OLDA, complete genome.
+>ENA|CP016868|CP016868.1 Legionella pneumophila subsp. pneumophila strain FFI102, complete genome.
+>ENA|CP016870|CP016870.1 Legionella pneumophila subsp. pneumophila strain FFI103, complete genome.
+>ENA|CP016872|CP016872.1 Legionella pneumophila subsp. pneumophila strain FFI104, complete genome.
+>ENA|CP016873|CP016873.1 Legionella pneumophila subsp. pneumophila strain FFI105, complete genome.
+>ENA|CP016874|CP016874.1 Legionella pneumophila subsp. pneumophila strain FFI329, complete genome.
+>ENA|CP016876|CP016876.1 Legionella pneumophila subsp. pneumophila strain FFI337, complete genome.
+>ENA|CP017327|CP017327.1 Mycoplasma pneumoniae strain FH 2009, complete genome.
+>ENA|CP017328|CP017328.1 Mycoplasma pneumoniae strain 685, complete genome.
+>ENA|CP017329|CP017329.1 Mycoplasma pneumoniae strain E57, complete genome.
+>ENA|CP017330|CP017330.1 Mycoplasma pneumoniae strain 549, complete genome.
+>ENA|CP017331|CP017331.1 Mycoplasma pneumoniae strain FL8, complete genome.
+>ENA|CP017332|CP017332.1 Mycoplasma pneumoniae strain E16, complete genome.
+>ENA|CP017333|CP017333.1 Mycoplasma pneumoniae strain FL1, complete genome.
+>ENA|CP017334|CP017334.1 Mycoplasma pneumoniae strain K27, complete genome.
+>ENA|CP017335|CP017335.1 Mycoplasma pneumoniae strain CO103, complete genome.
+>ENA|CP017336|CP017336.1 Mycoplasma pneumoniae strain GA3, complete genome.
+>ENA|CP017337|CP017337.1 Mycoplasma pneumoniae strain 1006, complete genome.
+>ENA|CP017338|CP017338.1 Mycoplasma pneumoniae strain 1134, complete genome.
+>ENA|CP017339|CP017339.1 Mycoplasma pneumoniae strain 519, complete genome.
+>ENA|CP017340|CP017340.1 Mycoplasma pneumoniae strain RI3, complete genome.
+>ENA|CP017341|CP017341.1 Mycoplasma pneumoniae strain 1801, complete genome.
+>ENA|CP017342|CP017342.1 Mycoplasma pneumoniae strain CO3, complete genome.
+>ENA|CP017343|CP017343.1 Mycoplasma pneumoniae strain M129 2002, complete genome.
+>ENA|CP017457|CP017457.1 Legionella pneumophila subsp. fraseri strain Detroit-1, complete genome.
+>ENA|CP017458|CP017458.1 Legionella pneumophila subsp. fraseri strain Dallas 1E, complete genome.
+>ENA|CP017601|CP017601.1 Legionella pneumophila strain D6026 chromosome, complete genome.
+>ENA|CP017602|CP017602.1 Legionella pneumophila strain D5945 chromosome, complete genome.
+>ENA|CP017811|CP017811.1 Haemophilus influenzae strain NML-Hia-1, complete genome.
+>ENA|CP020006|CP020006.1 Haemophilus influenzae strain 48P106H1 chromosome, complete genome.
+>ENA|CP020007|CP020007.1 Haemophilus influenzae strain 48P153H1 chromosome, complete genome.
+>ENA|CP020008|CP020008.1 Haemophilus influenzae strain 5P28H1 chromosome, complete genome.
+>ENA|CP020009|CP020009.1 Haemophilus influenzae strain 5P54H1 chromosome, complete genome.
+>ENA|CP020010|CP020010.1 Haemophilus influenzae strain 67P38H1 chromosome, complete genome.
+>ENA|CP020011|CP020011.1 Haemophilus influenzae strain 67P56H1 chromosome, complete genome.
+>ENA|CP020012|CP020012.1 Haemophilus influenzae strain 6P24H2 chromosome, complete genome.
+>ENA|CP020013|CP020013.1 Haemophilus influenzae strain 6P32H1 chromosome, complete genome.
+>ENA|CP020014|CP020014.1 Haemophilus influenzae strain 11P6H chromosome, complete genome.
+>ENA|CP020027|CP020027.1 Streptococcus pyogenes strain STAB090229, complete genome.
+>ENA|CP020082|CP020082.1 Streptococcus pyogenes strain STAB120304, complete genome.
+>ENA|CP020411|CP020411.1 Haemophilus influenzae strain FDAARGOS_199, complete genome.
+>ENA|CP020411|CP020411.2 Haemophilus influenzae strain FDAARGOS_199 chromosome, complete genome.
+>ENA|CP020614|CP020614.1 Tatlockia micdadei strain NZ2015, complete genome.
+>ENA|CP020615|CP020615.1 Tatlockia micdadei strain NZ2016, complete genome.
+>ENA|CP020689|CP020689.1 Mycoplasma pneumoniae strain S63-tet-R, complete genome.
+>ENA|CP020690|CP020690.1 Mycoplasma pneumoniae strain FH-tet-R, complete genome.
+>ENA|CP020691|CP020691.1 Mycoplasma pneumoniae strain S68-tet-R, complete genome.
+>ENA|CP020692|CP020692.1 Mycoplasma pneumoniae strain S55-tet-R, complete genome.
+>ENA|CP020693|CP020693.1 Mycoplasma pneumoniae strain S91-tet-R, complete genome.
+>ENA|CP020710|CP020710.1 Mycoplasma pneumoniae strain S34-tet-R, complete genome.
+>ENA|CP020711|CP020711.1 Mycoplasma pneumoniae strain S4-tet-R, complete genome.
+>ENA|CP020712|CP020712.1 Mycoplasma pneumoniae strain S12-tet-R, complete genome.
+>ENA|CP021256|CP021256.1 Legionella pneumophila strain D-4954 chromosome, complete genome.
+>ENA|CP021257|CP021257.1 Legionella pneumophila subsp. fraseri strain Lansing 3 chromosome, complete genome.
+>ENA|CP021258|CP021258.1 Legionella pneumophila subsp. fraseri strain D-5744 chromosome, complete genome.
+>ENA|CP021259|CP021259.1 Legionella pneumophila strain D-7708 chromosome, complete genome.
+>ENA|CP021260|CP021260.1 Legionella pneumophila strain NY24 (D-7706) chromosome, complete genome.
+>ENA|CP021261|CP021261.1 Legionella pneumophila strain NY23 (D-7705) chromosome, complete genome.
+>ENA|CP021262|CP021262.1 Legionella pneumophila subsp. pascullei strain U8W (D-7160) chromosome, complete genome.
+>ENA|CP021263|CP021263.1 Legionella pneumophila subsp. fraseri strain D-3137 chromosome, complete genome.
+>ENA|CP021264|CP021264.1 Legionella pneumophila subsp. fraseri strain D-5387 chromosome, complete genome.
+>ENA|CP021265|CP021265.1 Legionella pneumophila subsp. fraseri strain Los Angeles 1 (D-7696) chromosome, complete genome.
+>ENA|CP021266|CP021266.1 Legionella pneumophila subsp. pneumophila strain Knoxville 1 (D-7468) chromosome, complete genome.
+>ENA|CP021267|CP021267.1 Legionella pneumophila subsp. pneumophila strain Burlington 1 (D-7841) chromosome, complete genome.
+>ENA|CP021268|CP021268.1 Legionella pneumophila subsp. pneumophila strain Birmingham 1 (D-7470) chromosome, complete genome.
+>ENA|CP021269|CP021269.1 Legionella pneumophila subsp. pneumophila strain Bellingham 1 (D-7473) chromosome, complete genome.
+>ENA|CP021270|CP021270.1 Legionella pneumophila strain D-7787 chromosome, complete genome.
+>ENA|CP021272|CP021272.1 Legionella pneumophila strain D-5265 chromosome, complete genome.
+>ENA|CP021274|CP021274.1 Legionella pneumophila strain D-4040 chromosome, complete genome.
+>ENA|CP021277|CP021277.1 Legionella pneumophila subsp. fraseri strain D-4058 chromosome, complete genome.
+>ENA|CP021279|CP021279.1 Legionella pneumophila subsp. fraseri strain F-4198 chromosome, complete genome.
+>ENA|CP021281|CP021281.1 Legionella pneumophila subsp. pneumophila strain Flint 2 (D-7477) chromosome, complete genome.
+>ENA|CP021283|CP021283.1 Legionella pneumophila subsp. pneumophila strain Allentown 1 (D-7475) chromosome, complete genome.
+>ENA|CP021286|CP021286.1 Legionella pneumophila subsp. pneumophila strain Albuquerque 1 (D-7474) chromosome, complete genome.
+>ENA|CP021640|CP021640.1 Streptococcus pyogenes strain JS12, complete genome.
+>ENA|CP022206|CP022206.1 Streptococcus pyogenes strain GURSA1 chromosome, complete genome.
+>ENA|CP022354|CP022354.1 Streptococcus pyogenes strain GUR chromosome, complete genome.
+>ENA|CP023769|CP023769.1 Streptococcus pyogenes strain HarveyGAS chromosome, complete genome.
+>ENA|CP027771|CP027771.1 Streptococcus pyogenes strain DMG1800716 chromosome, complete genome.
+>ENA|CP028140|CP028140.1 Streptococcus pyogenes strain NGAS979 chromosome, complete genome.
+>ENA|CP028148|CP028148.1 Streptococcus pyogenes strain TJ11-001 chromosome, complete genome.
+>ENA|CP028841|CP028841.1 Streptococcus pyogenes strain CCUG 4207 chromosome, complete genome.
+>ENA|CP029620|CP029620.1 Haemophilus influenzae strain 10P129H1 chromosome, complete genome.
+>ENA|CP029621|CP029621.1 Haemophilus influenzae strain 84P36H1 chromosome, complete genome.
+>ENA|CP029694|CP029694.1 Streptococcus pyogenes strain ABC020055975 chromosome, complete genome.
+>ENA|CP031236|CP031236.1 Haemophilus influenzae strain M25267 chromosome, complete genome.
+>ENA|CP031237|CP031237.1 Haemophilus influenzae strain M12125 chromosome, complete genome.
+>ENA|CP031239|CP031239.1 Haemophilus influenzae strain M13034 chromosome, complete genome.
+>ENA|CP031241|CP031241.1 Haemophilus influenzae strain M17648 chromosome, complete genome.
+>ENA|CP031242|CP031242.1 Haemophilus influenzae strain M21460 chromosome, complete genome.
+>ENA|CP031244|CP031244.1 Haemophilus influenzae strain M14951 chromosome.
+>ENA|CP031249|CP031249.1 Haemophilus influenzae strain M15895 chromosome, complete genome.
+>ENA|CP031250|CP031250.1 Haemophilus influenzae strain M21384 chromosome, complete genome.
+>ENA|CP031254|CP031254.1 Haemophilus influenzae strain M25588 chromosome, complete genome.
+>ENA|CP031617|CP031617.1 Streptococcus pyogenes strain MGAS29409 chromosome, complete genome.
+>ENA|CP031618|CP031618.1 Streptococcus pyogenes strain MGAS29326 chromosome, complete genome.
+>ENA|CP031619|CP031619.1 Streptococcus pyogenes strain MGAS29284 chromosome, complete genome.
+>ENA|CP031620|CP031620.1 Streptococcus pyogenes strain MGAS29064 chromosome, complete genome.
+>ENA|CP031621|CP031621.1 Streptococcus pyogenes strain MGAS28746 chromosome, complete genome.
+>ENA|CP031622|CP031622.1 Streptococcus pyogenes strain MGAS28686 chromosome, complete genome.
+>ENA|CP031623|CP031623.1 Streptococcus pyogenes strain MGAS28669 chromosome, complete genome.
+>ENA|CP031624|CP031624.1 Streptococcus pyogenes strain MGAS28650 chromosome, complete genome.
+>ENA|CP031625|CP031625.1 Streptococcus pyogenes strain MGAS28533 chromosome, complete genome.
+>ENA|CP031626|CP031626.1 Streptococcus pyogenes strain MGAS28386 chromosome, complete genome.
+>ENA|CP031627|CP031627.1 Streptococcus pyogenes strain MGAS28360 chromosome, complete genome.
+>ENA|CP031628|CP031628.1 Streptococcus pyogenes strain MGAS28330 chromosome, complete genome.
+>ENA|CP031629|CP031629.1 Streptococcus pyogenes strain MGAS28278 chromosome, complete genome.
+>ENA|CP031630|CP031630.1 Streptococcus pyogenes strain MGAS28271 chromosome, complete genome.
+>ENA|CP031631|CP031631.1 Streptococcus pyogenes strain MGAS28191 chromosome, complete genome.
+>ENA|CP031632|CP031632.1 Streptococcus pyogenes strain MGAS28078 chromosome, complete genome.
+>ENA|CP031633|CP031633.1 Streptococcus pyogenes strain MGAS11115 chromosome, complete genome.
+>ENA|CP031634|CP031634.1 Streptococcus pyogenes strain MGAS11108 chromosome, complete genome.
+>ENA|CP031635|CP031635.1 Streptococcus pyogenes strain MGAS11052 chromosome, complete genome.
+>ENA|CP031636|CP031636.1 Streptococcus pyogenes strain MGAS10826 chromosome, complete genome.
+>ENA|CP031637|CP031637.1 Streptococcus pyogenes strain MGAS10786 chromosome, complete genome.
+>ENA|CP031638|CP031638.1 Streptococcus pyogenes strain MGAS8347 chromosome, complete genome.
+>ENA|CP031639|CP031639.1 Streptococcus pyogenes strain MGAS7914 chromosome, complete genome.
+>ENA|CP031640|CP031640.1 Streptococcus pyogenes strain MGAS7888 chromosome, complete genome.
+>ENA|CP031678|CP031678.1 Haemophilus influenzae strain P679-2791 chromosome, complete genome.
+>ENA|CP031679|CP031679.1 Haemophilus influenzae strain P676-2514 chromosome, complete genome.
+>ENA|CP031680|CP031680.1 Haemophilus influenzae strain P672-7661 chromosome, complete genome.
+>ENA|CP031681|CP031681.1 Haemophilus influenzae strain P669-6977 chromosome, complete genome.
+>ENA|CP031682|CP031682.1 Haemophilus influenzae strain P665-7858 chromosome, complete genome.
+>ENA|CP031683|CP031683.1 Haemophilus influenzae strain P662-7189 chromosome, complete genome.
+>ENA|CP031684|CP031684.1 Haemophilus influenzae strain P652-8881 chromosome, complete genome.
+>ENA|CP031685|CP031685.1 Haemophilus influenzae strain P650-8603 chromosome, complete genome.
+>ENA|CP031686|CP031686.1 Haemophilus influenzae strain P642-4396 chromosome, complete genome.
+>ENA|CP031687|CP031687.1 Haemophilus influenzae strain P641-4342 chromosome, complete genome.
+>ENA|CP031688|CP031688.1 Haemophilus influenzae strain P636-8296 chromosome, complete genome.
+>ENA|CP031689|CP031689.1 Haemophilus influenzae strain P621-7028 chromosome, complete genome.
+>ENA|CP031690|CP031690.1 Haemophilus influenzae strain P617-9224 chromosome, complete genome.
+>ENA|CP031691|CP031691.1 Haemophilus influenzae strain P615-8618 chromosome, complete genome.
+>ENA|CP031692|CP031692.1 Haemophilus influenzae strain P595-8370 chromosome, complete genome.
+>ENA|CP031738|CP031738.1 Streptococcus pyogenes strain SP1336 chromosome, complete genome.
+>ENA|CP031770|CP031770.1 Streptococcus pyogenes strain SASM4-Duke chromosome, complete genome.
+>ENA|CP032665|CP032665.1 Streptococcus pyogenes strain MGAS27961 chromosome, complete genome.
+>ENA|CP032666|CP032666.1 Streptococcus pyogenes strain MGAS28085 chromosome, complete genome.
+>ENA|CP032699|CP032699.1 Streptococcus pyogenes strain TSPY155 chromosome, complete genome.
+>ENA|CP032700|CP032700.1 Streptococcus pyogenes strain TSPY556 chromosome, complete genome.
+>ENA|CP033167|CP033167.1 Haemophilus influenzae strain P657-8759 chromosome.
+>ENA|CP033168|CP033168.1 Haemophilus influenzae strain P602-8883 chromosome.
+>ENA|CP033335|CP033335.1 Streptococcus pyogenes strain TSPY208 chromosome, complete genome.
+>ENA|CP033336|CP033336.1 Streptococcus pyogenes strain TSPY165 chromosome, complete genome.
+>ENA|CP033337|CP033337.1 Streptococcus pyogenes strain TSPY453 chromosome, complete genome.
+>ENA|CP033621|CP033621.1 Streptococcus pyogenes strain M75 chromosome, complete genome.
+>ENA|CP033767|CP033767.1 Streptococcus pyogenes strain FDAARGOS_534 chromosome, complete genome.
+>ENA|CP033815|CP033815.1 Streptococcus pyogenes strain FDAARGOS_514 chromosome, complete genome.
+>ENA|CP033907|CP033907.1 Streptococcus pyogenes strain Duke-Large chromosome, complete genome.
+>ENA|CP033908|CP033908.1 Streptococcus pyogenes strain RLGH chromosome, complete genome.
+>ENA|CP035426|CP035426.1 Streptococcus pyogenes strain emm57 chromosome, complete genome.
+>ENA|CP035427|CP035427.1 Streptococcus pyogenes strain emm74 chromosome, complete genome.
+>ENA|CP035428|CP035428.1 Streptococcus pyogenes strain emmSTG866.1 chromosome, complete genome.
+>ENA|CP035429|CP035429.1 Streptococcus pyogenes strain emmNA chromosome, complete genome.
+>ENA|CP035430|CP035430.1 Streptococcus pyogenes strain emm55 chromosome, complete genome.
+>ENA|CP035431|CP035431.1 Streptococcus pyogenes strain emm105 chromosome, complete genome.
+>ENA|CP035432|CP035432.1 Streptococcus pyogenes strain emm11 chromosome, complete genome.
+>ENA|CP035433|CP035433.1 Streptococcus pyogenes strain emm65 chromosome, complete genome.
+>ENA|CP035434|CP035434.1 Streptococcus pyogenes strain emm75.1 chromosome, complete genome.
+>ENA|CP035435|CP035435.1 Streptococcus pyogenes strain emm64.3 chromosome, complete genome.
+>ENA|CP035436|CP035436.1 Streptococcus pyogenes strain emm89.14 chromosome, complete genome.
+>ENA|CP035437|CP035437.1 Streptococcus pyogenes strain emm78.3 chromosome, complete genome.
+>ENA|CP035438|CP035438.1 Streptococcus pyogenes strain emm22.8 chromosome, complete genome.
+>ENA|CP035439|CP035439.1 Streptococcus pyogenes strain emm77 chromosome, complete genome.
+>ENA|CP035440|CP035440.1 Streptococcus pyogenes strain emm124 chromosome, complete genome.
+>ENA|CP035441|CP035441.1 Streptococcus pyogenes strain emm1 chromosome, complete genome.
+>ENA|CP035442|CP035442.1 Streptococcus pyogenes strain emm25 chromosome, complete genome.
+>ENA|CP035443|CP035443.1 Streptococcus pyogenes strain emm58 chromosome, complete genome.
+>ENA|CP035444|CP035444.1 Streptococcus pyogenes strain emm90.5 chromosome, complete genome.
+>ENA|CP035445|CP035445.1 Streptococcus pyogenes strain emm92 chromosome, complete genome.
+>ENA|CP035446|CP035446.1 Streptococcus pyogenes strain emm68.2 chromosome, complete genome.
+>ENA|CP035447|CP035447.1 Streptococcus pyogenes strain emm97.1 chromosome, complete genome.
+>ENA|CP035448|CP035448.1 Streptococcus pyogenes strain emm70 chromosome, complete genome.
+>ENA|CP035449|CP035449.1 Streptococcus pyogenes strain emm56 chromosome, complete genome.
+>ENA|CP035450|CP035450.1 Streptococcus pyogenes strain emm93.4 chromosome, complete genome.
+>ENA|CP035451|CP035451.1 Streptococcus pyogenes strain emm230 chromosome, complete genome.
+>ENA|CP035452|CP035452.1 Streptococcus pyogenes strain emm123 chromosome, complete genome.
+>ENA|CP035453|CP035453.1 Streptococcus pyogenes strain emm100 chromosome, complete genome.
+>ENA|CP035454|CP035454.1 Streptococcus pyogenes strain emm54 chromosome, complete genome.
+>ENA|CP035455|CP035455.1 Streptococcus pyogenes strain emm197 chromosome, complete genome.
+>ENA|CP036530|CP036530.1 Streptococcus pyogenes strain STAB09023 chromosome, complete genome.
+>ENA|CP036531|CP036531.1 Streptococcus pyogenes strain STAB10048 chromosome, complete genome.
+>ENA|CP039761|CP039761.1 Mycoplasma pneumoniae strain 16-734 chromosome, complete genome.
+>ENA|CP039762|CP039762.1 Mycoplasma pneumoniae strain 16-710 chromosome, complete genome.
+>ENA|CP039763|CP039763.1 Mycoplasma pneumoniae strain 16-462 chromosome, complete genome.
+>ENA|CP039764|CP039764.1 Mycoplasma pneumoniae strain 16-118 chromosome, complete genome.
+>ENA|CP039765|CP039765.1 Mycoplasma pneumoniae strain 16-032 chromosome, complete genome.
+>ENA|CP039766|CP039766.1 Mycoplasma pneumoniae strain 16-004 chromosome, complete genome.
+>ENA|CP039767|CP039767.1 Mycoplasma pneumoniae strain 16-002 chromosome, complete genome.
+>ENA|CP039768|CP039768.1 Mycoplasma pneumoniae strain 15-982 chromosome, complete genome.
+>ENA|CP039769|CP039769.1 Mycoplasma pneumoniae strain 15-969 chromosome, complete genome.
+>ENA|CP039770|CP039770.1 Mycoplasma pneumoniae strain 15-885 chromosome, complete genome.
+>ENA|CP039771|CP039771.1 Mycoplasma pneumoniae strain 15-215 chromosome, complete genome.
+>ENA|CP039772|CP039772.1 Mycoplasma pneumoniae strain 14-637 chromosome, complete genome.
+>ENA|CP039773|CP039773.1 Mycoplasma pneumoniae strain 12-091 chromosome, complete genome.
+>ENA|CP039774|CP039774.1 Mycoplasma pneumoniae strain 12-060 chromosome, complete genome.
+>ENA|CP039775|CP039775.1 Mycoplasma pneumoniae strain 11-1384 chromosome, complete genome.
+>ENA|CP039776|CP039776.1 Mycoplasma pneumoniae strain 11-994 chromosome, complete genome.
+>ENA|CP039777|CP039777.1 Mycoplasma pneumoniae strain 11-949 chromosome, complete genome.
+>ENA|CP039778|CP039778.1 Mycoplasma pneumoniae strain 11-634 chromosome, complete genome.
+>ENA|CP039779|CP039779.1 Mycoplasma pneumoniae strain 11-473 chromosome, complete genome.
+>ENA|CP039780|CP039780.1 Mycoplasma pneumoniae strain 11-212 chromosome, complete genome.
+>ENA|CP039781|CP039781.1 Mycoplasma pneumoniae strain 11-174 chromosome, complete genome.
+>ENA|CP039782|CP039782.1 Mycoplasma pneumoniae strain 11-129 chromosome, complete genome.
+>ENA|CP039783|CP039783.1 Mycoplasma pneumoniae strain 11-107 chromosome, complete genome.
+>ENA|CP039784|CP039784.1 Mycoplasma pneumoniae strain 10-1385 chromosome, complete genome.
+>ENA|CP039785|CP039785.1 Mycoplasma pneumoniae strain 10-1257 chromosome, complete genome.
+>ENA|CP039786|CP039786.1 Mycoplasma pneumoniae strain 10-1213 chromosome, complete genome.
+>ENA|CP039787|CP039787.1 Mycoplasma pneumoniae strain 10-1110 chromosome, complete genome.
+>ENA|CP039788|CP039788.1 Mycoplasma pneumoniae strain 10-1059 chromosome, complete genome.
+>ENA|CP039789|CP039789.1 Mycoplasma pneumoniae strain 10-1048 chromosome, complete genome.
+>ENA|CP039790|CP039790.1 Mycoplasma pneumoniae strain 10-980 chromosome, complete genome.
+>ENA|CP040987|CP040987.1 Legionella pneumophila strain FDAARGOS_779 chromosome, complete genome.
+>ENA|CP040997|CP040997.1 Streptococcus pyogenes strain FDAARGOS_774 chromosome, complete genome.
+>ENA|CP043770|CP043770.1 Haemophilus influenzae biotype aegyptius strain HE7/F1946 chromosome, complete genome.
+>ENA|CP043771|CP043771.1 Haemophilus influenzae biotype aegyptius strain HE15/F3028 chromosome, complete genome.
+>ENA|CP043772|CP043772.1 Haemophilus influenzae biotype aegyptius strain HE24/F3037 chromosome, complete genome.
+>ENA|CP043810|CP043810.1 Haemophilus influenzae biotype aegyptius strain HE37/F3052 chromosome, complete genome.
+>ENA|CP043811|CP043811.1 Haemophilus influenzae biotype aegyptius strain HE40/F3043 chromosome, complete genome.
+>ENA|CP044093|CP044093.1 Streptococcus pyogenes strain FDAARGOS_668 chromosome, complete genome.
+>ENA|CP044497|CP044497.1 Haemophilus influenzae strain PittGG chromosome, complete genome.
+>ENA|CP045930|CP045930.1 Streptococcus pyogenes strain AUSMDU00010539 chromosome, complete genome.
+>ENA|CP045974|CP045974.1 Legionella pneumophila strain AUSMDU00010536 isolate SBT211 chromosome, complete genome.
+>ENA|CP047120|CP047120.1 Streptococcus pyogenes strain 1085 chromosome, complete genome.
+>ENA|CP048618|CP048618.1 Legionella pneumophila strain ERS1305867 chromosome, complete genome.
+>ENA|CR628336|CR628336.1 Legionella pneumophila str. Paris complete genome
+>ENA|CR628337|CR628337.1 Legionella pneumophila str. Lens complete genome
+>ENA|CY002064|CY002064.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 4, complete sequence.
+>ENA|CY002065|CY002065.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 7, complete sequence.
+>ENA|CY002066|CY002066.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 6, complete sequence.
+>ENA|CY002067|CY002067.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 5, complete sequence.
+>ENA|CY002068|CY002068.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 8, complete sequence.
+>ENA|CY002069|CY002069.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 3, complete sequence.
+>ENA|CY002070|CY002070.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 2, complete sequence.
+>ENA|CY002071|CY002071.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 1, complete sequence.
+>ENA|D00239|D00239.1 Human rhinovirus 1B, complete genome.
+>ENA|D00538|D00538.1 Human coxsackievirus A21 (strain Coe) genomic RNA, complete genome.
+>ENA|D00627|D00627.1 Human coxsackievirus A9 genomic RNA, complete genome, strain: Griggs.
+>ENA|D90457|D90457.1 Human coxsackievirus A24 DNA, complete genome.
+>ENA|DQ358078|DQ358078.1 Human coxsackievirus A20 serotype CAV20a, complete genome.
+>ENA|DQ473485|DQ473485.1 Human rhinovirus 3, complete genome.
+>ENA|DQ473486|DQ473486.1 Human rhinovirus 6, complete genome.
+>ENA|DQ473487|DQ473487.1 Human rhinovirus 35, complete genome.
+>ENA|DQ473488|DQ473488.1 Human rhinovirus 48, complete genome.
+>ENA|DQ473489|DQ473489.1 Human rhinovirus 70, complete genome.
+>ENA|DQ473490|DQ473490.1 Human rhinovirus 4, complete genome.
+>ENA|DQ473491|DQ473491.1 Human rhinovirus 41, complete genome.
+>ENA|DQ473492|DQ473492.1 Human rhinovirus 73, complete genome.
+>ENA|DQ473493|DQ473493.1 Human rhinovirus 15, complete genome.
+>ENA|DQ473494|DQ473494.1 Human rhinovirus 74, complete genome.
+>ENA|DQ473495|DQ473495.1 Human rhinovirus 38, complete genome.
+>ENA|DQ473496|DQ473496.1 Human rhinovirus 49, complete genome.
+>ENA|DQ473497|DQ473497.1 Human rhinovirus 23, complete genome.
+>ENA|DQ473498|DQ473498.1 Human rhinovirus 10, complete genome.
+>ENA|DQ473500|DQ473500.1 Human rhinovirus 59, complete genome.
+>ENA|DQ473501|DQ473501.1 Human rhinovirus 34, complete genome.
+>ENA|DQ473502|DQ473502.1 Human rhinovirus 76, complete genome.
+>ENA|DQ473503|DQ473503.1 Human rhinovirus 7, complete genome.
+>ENA|DQ473504|DQ473504.1 Human rhinovirus 88, complete genome.
+>ENA|DQ473505|DQ473505.1 Human rhinovirus 36, complete genome.
+>ENA|DQ473506|DQ473506.1 Human rhinovirus 46, complete genome.
+>ENA|DQ473507|DQ473507.1 Human rhinovirus 53, complete genome.
+>ENA|DQ473508|DQ473508.1 Human rhinovirus 28, complete genome.
+>ENA|DQ473509|DQ473509.1 Human rhinovirus A, complete genome.
+>ENA|DQ473510|DQ473510.1 Human rhinovirus 75, complete genome.
+>ENA|DQ473511|DQ473511.1 Human rhinovirus 55, complete genome.
+>ENA|DQ473512|DQ473512.1 Human rhinovirus 30, complete genome.
+>ENA|DQ875932|DQ875932.2 Human rhinovirus C strain NY-074 polyprotein gene, complete cds.
+>ENA|DQ995647|DQ995647.1 Human coxsackievirus A22 strain ban99-10427, complete genome.
+>ENA|DQ995648|DQ995648.1 Human coxsackievirus A22 strain USA75-10624, complete genome.
+>ENA|EF015013|EF015013.1 Human coxsackievirus A20 strain BAN00-10462 polyprotein gene, complete cds.
+>ENA|EF015014|EF015014.1 Human coxsackievirus A20 strain BAN01-10618 polyprotein gene, complete cds.
+>ENA|EF015015|EF015015.1 Human coxsackievirus A20 strain BAN00-10529 polyprotein gene, complete cds.
+>ENA|EF015016|EF015016.1 Human coxsackievirus A20 strain BAN99-10635 polyprotein gene, complete cds.
+>ENA|EF015017|EF015017.1 Human coxsackievirus A20 strain BAN00-10447 polyprotein gene, complete cds.
+>ENA|EF015018|EF015018.1 Human coxsackievirus A20 strain BAN00-10538 polyprotein gene, complete cds.
+>ENA|EF015019|EF015019.1 Human coxsackievirus A20 strain CVA20b-Cecil polyprotein gene, complete cds.
+>ENA|EF015020|EF015020.1 Human coxsackievirus A20 strain MOR83-10617 polyprotein gene, complete cds.
+>ENA|EF015021|EF015021.1 Human coxsackievirus A20 strain CVA20a-Tulane polyprotein gene, complete cds.
+>ENA|EF026081|EF026081.1 Human coxsackievirus A24 strain Joseph, complete genome.
+>ENA|EF077279|EF077279.1 Human rhinovirus NAT001 polyprotein gene, complete cds.
+>ENA|EF077280|EF077280.1 Human rhinovirus NAT045 polyprotein gene, complete cds.
+>ENA|EF155421|EF155421.1 Human rhinovirus AMS323 polyprotein gene, complete cds.
+>ENA|EF173414|EF173414.1 Human rhinovirus 11, complete genome.
+>ENA|EF173415|EF173415.1 Human rhinovirus 12, complete genome.
+>ENA|EF173416|EF173416.1 Human rhinovirus 24, complete genome.
+>ENA|EF173417|EF173417.1 Human rhinovirus 64, complete genome.
+>ENA|EF173418|EF173418.1 Human rhinovirus 78, complete genome.
+>ENA|EF173419|EF173419.1 Human rhinovirus 94, complete genome.
+>ENA|EF173420|EF173420.1 Human rhinovirus 17, complete genome.
+>ENA|EF173423|EF173423.1 Human rhinovirus 37, complete genome.
+>ENA|EF173425|EF173425.1 Human rhinovirus 93, complete genome.
+>ENA|EF186077|EF186077.2 Human rhinovirus C3 strain HRV-QPM, complete genome.
+>ENA|EF582385|EF582385.1 Human rhinovirus C strain 024, complete genome.
+>ENA|EF582386|EF582386.1 Human rhinovirus C strain 025, complete genome.
+>ENA|EF582387|EF582387.1 Human rhinovirus C strain 026, complete genome.
+>ENA|EU840728|EU840728.1 Human rhinovirus C strain CL-Fnp5 polyprotein gene, partial cds.
+>ENA|EU840952|EU840952.2 Human rhinovirus C11 strain CL-170085, complete genome.
+>ENA|EU918736|EU918736.1 Human bocavirus 3 strain W471, complete genome.
+>ENA|FJ168778|FJ168778.1 Human metapneumovirus isolate NL/94/01 subtype B2, complete genome.
+>ENA|FJ168779|FJ168779.1 Human metapneumovirus isolate NL/00/17 type A2, complete genome.
+>ENA|FJ170278|FJ170278.1 Human bocavirus 2c PK isolate PK-5510, complete genome.
+>ENA|FJ445111|FJ445111.1 Human rhinovirus 1 strain ATCC VR-1559, complete genome.
+>ENA|FJ445112|FJ445112.1 Human rhinovirus 5 strain ATCC VR-485, complete genome.
+>ENA|FJ445113|FJ445113.1 Human rhinovirus 8 strain ATCC VR-1118, complete genome.
+>ENA|FJ445116|FJ445116.1 Human rhinovirus 13 strain ATCC VR-1123, complete genome.
+>ENA|FJ445118|FJ445118.1 Human rhinovirus 18 strain ATCC VR-1128, complete genome.
+>ENA|FJ445119|FJ445119.1 Human rhinovirus 19 strain ATCC VR-1129, complete genome.
+>ENA|FJ445120|FJ445120.1 Human rhinovirus 20 strain ATCC VR-1130, complete genome.
+>ENA|FJ445121|FJ445121.1 Human rhinovirus 21 strain ATCC VR-1131, complete genome.
+>ENA|FJ445122|FJ445122.1 Human rhinovirus 22 strain ATCC VR-1132, complete genome.
+>ENA|FJ445123|FJ445123.1 Human rhinovirus 25 strain ATCC VR-1135, complete genome.
+>ENA|FJ445124|FJ445124.1 Human rhinovirus 26 strain ATCC VR-1136, complete genome.
+>ENA|FJ445125|FJ445125.1 Human rhinovirus 29 strain ATCC VR-1139, complete genome.
+>ENA|FJ445126|FJ445126.1 Human rhinovirus 31 strain ATCC VR-506, complete genome.
+>ENA|FJ445127|FJ445127.1 Human rhinovirus 32 strain ATCC VR-1142, complete genome.
+>ENA|FJ445128|FJ445128.1 Human rhinovirus 33 strain ATCC VR-330, complete genome.
+>ENA|FJ445129|FJ445129.1 Human rhinovirus 40 strain ATCC VR-341, complete genome.
+>ENA|FJ445130|FJ445130.1 Human rhinovirus 42 strain ATCC VR-338, complete genome.
+>ENA|FJ445131|FJ445131.1 Human rhinovirus 43 strain ATCC VR-1153, complete genome.
+>ENA|FJ445132|FJ445132.1 Human rhinovirus 45 strain ATCC VR-1155, complete genome.
+>ENA|FJ445133|FJ445133.1 Human rhinovirus 47 strain ATCC VR-1157, complete genome.
+>ENA|FJ445135|FJ445135.1 Human rhinovirus 50 strain ATCC VR-517, complete genome.
+>ENA|FJ445136|FJ445136.1 Human rhinovirus 51 strain ATCC VR-1161, complete genome.
+>ENA|FJ445137|FJ445137.1 Human rhinovirus 52 isolate F10, complete genome.
+>ENA|FJ445138|FJ445138.1 Human rhinovirus 54 strain ATCC VR-1164, complete genome.
+>ENA|FJ445140|FJ445140.1 Human rhinovirus 56 strain ATCC VR-1166, complete genome.
+>ENA|FJ445141|FJ445141.1 Human rhinovirus 57 isolate fs ship#1-hrv-57, complete genome.
+>ENA|FJ445142|FJ445142.1 Human rhinovirus 58 strain ATCC VR-1168, complete genome.
+>ENA|FJ445143|FJ445143.1 Human rhinovirus 60 strain ATCC VR-1473, complete genome.
+>ENA|FJ445144|FJ445144.1 Human rhinovirus 61 strain ATCC VR-1171, complete genome.
+>ENA|FJ445145|FJ445145.1 Human rhinovirus 62 strain ATCC VR-1172, complete genome.
+>ENA|FJ445146|FJ445146.1 Human rhinovirus 63 strain ATCC VR-1173, complete genome.
+>ENA|FJ445147|FJ445147.1 Human rhinovirus 65 strain ATCC VR-1175, complete genome.
+>ENA|FJ445148|FJ445148.1 Human rhinovirus 66 strain ATCC VR-1176, complete genome.
+>ENA|FJ445149|FJ445149.1 Human rhinovirus 67 strain ATCC VR-1177, complete genome.
+>ENA|FJ445150|FJ445150.1 Human rhinovirus 68 strain ATCC VR-1178, complete genome.
+>ENA|FJ445151|FJ445151.1 Human rhinovirus 69 strain ATCC VR-1179, complete genome.
+>ENA|FJ445152|FJ445152.1 Human rhinovirus 71 strain ATCC VR-1181, complete genome.
+>ENA|FJ445153|FJ445153.1 Human rhinovirus 72 strain ATCC VR-1182, complete genome.
+>ENA|FJ445154|FJ445154.1 Human rhinovirus 77 strain ATCC VR-1187, complete genome.
+>ENA|FJ445155|FJ445155.1 Human rhinovirus 79 strain ATCC VR-1189, complete genome.
+>ENA|FJ445156|FJ445156.1 Human rhinovirus 80 strain ATCC VR-1190, complete genome.
+>ENA|FJ445157|FJ445157.1 Human rhinovirus 81 strain ATCC VR-1191, complete genome.
+>ENA|FJ445161|FJ445161.1 Human rhinovirus 83 strain ATCC VR-1193, complete genome.
+>ENA|FJ445162|FJ445162.1 Human rhinovirus 84 strain ATCC VR-1194, complete genome.
+>ENA|FJ445163|FJ445163.1 Human rhinovirus 85 strain ATCC VR-1195, complete genome.
+>ENA|FJ445164|FJ445164.1 Human rhinovirus 86 strain ATCC VR-1196, complete genome.
+>ENA|FJ445167|FJ445167.1 Human rhinovirus 90 strain ATCC VR-1291, complete genome.
+>ENA|FJ445168|FJ445168.1 Human rhinovirus 91 strain ATCC VR-1292, complete genome.
+>ENA|FJ445169|FJ445169.1 Human rhinovirus 92 strain ATCC VR-1293, complete genome.
+>ENA|FJ445171|FJ445171.1 Human rhinovirus 96 strain ATCC VR-1296, complete genome.
+>ENA|FJ445172|FJ445172.1 Human rhinovirus 97 strain ATCC VR-1297, complete genome.
+>ENA|FJ445174|FJ445174.1 Human rhinovirus 99 strain ATCC VR-1299, complete genome.
+>ENA|FJ445175|FJ445175.1 Human rhinovirus 100 strain ATCC VR-1300, complete genome.
+>ENA|FJ445177|FJ445177.1 Human rhinovirus 9 strain ATCC VR-489, complete genome.
+>ENA|FJ445186|FJ445186.1 Human rhinovirus 27 strain ATCC VR-1137, complete genome.
+>ENA|FJ445188|FJ445188.1 Human rhinovirus 52 strain ATCC VR-1162, complete genome.
+>ENA|FJ969536|FJ969536.1 Influenza A virus (A/California/07/2009(H1N1)) segment 5 nucleocapsid protein (NP) gene, complete cds.
+>ENA|FJ969537|FJ969537.1 Influenza A virus (A/California/07/2009(H1N1)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds.
+>ENA|FJ969538|FJ969538.1 Influenza A virus (A/California/07/2009(H1N1)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds.
+>ENA|FJ969539|FJ969539.1 Influenza A virus (A/California/07/2009(H1N1)) segment 3 polymerase PA (PA) gene, complete cds.
+>ENA|FJ969540|FJ969540.1 Influenza A virus (A/California/07/2009(H1N1)) segment 4 hemagglutinin (HA) gene, complete cds.
+>ENA|FJ973561|FJ973561.2 Human bocavirus 4 NI strain HBoV4-NI-385, complete genome.
+>ENA|FJ984386|FJ984386.1 Influenza A virus (A/California/07/2009(H1N1)) segment 6 neuraminidase (NA) gene, complete cds.
+>ENA|FJ984387|FJ984387.1 Influenza A virus (A/California/07/2009(H1N1)) segment 1 polymerase PB2 (PB2) gene, complete cds.
+>ENA|FQ312006|FQ312006.1 Haemophilus influenzae 10810 genome.
+>ENA|FQ670178|FQ670178.1 Haemophilus influenzae F3031 complete genome
+>ENA|FQ670204|FQ670204.1 Haemophilus influenzae F3047 complete genome
+>ENA|FQ958210|FQ958210.1 Legionella pneumophila subsp. pneumophila str. Lorraine chromosome, complete genome.
+>ENA|FQ958211|FQ958211.1 Legionella pneumophila subsp. pneumophila str. HL06041035 chromosome, complete genome.
+>ENA|GQ223227|GQ223227.1 Human rhinovirus C isolate N4, complete genome.
+>ENA|GQ223228|GQ223228.1 Human rhinovirus C isolate N10, complete genome.
+>ENA|GQ323558|GQ323558.1 Influenza A virus (A/California/07/2009(H1N1)) segment 2 polymerase PB1 (PB1) gene, complete cds; and nonfunctional PB1-F2 protein (PB1-F2) gene, complete sequence.
+>ENA|GQ323774|GQ323774.1 Human rhinovirus C strain QCE, complete genome.
+>ENA|GQ415051|GQ415051.1 Human rhinovirus A isolate hrv-A101, complete genome.
+>ENA|GU219984|GU219984.1 Human rhinovirus C strain HRV-C15 isolate W10, complete genome.
+>ENA|HG316453|HG316453.1 Streptococcus pyogenes H293, complete genome
+>ENA|HG316453|HG316453.2 Streptococcus pyogenes H293, complete genome
+>ENA|HM053693|HM053693.2 Porcine bocavirus 1 pig/ZJD/China/2006, complete genome.
+>ENA|HM145750|HM145750.1 Bocavirus gorilla/GBoV1/2009, complete genome.
+>ENA|HM236897|HM236897.1 Human rhinovirus C isolate Resp_6131/07 polyprotein gene, partial cds.
+>ENA|HM236903|HM236903.1 Human rhinovirus C isolate Resp_5071/07 polyprotein gene, partial cds.
+>ENA|HM236904|HM236904.1 Human rhinovirus C isolate Resp_2514/06 polyprotein gene, partial cds.
+>ENA|HM236906|HM236906.1 Human rhinovirus C isolate Resp_2784/06 polyprotein gene, partial cds.
+>ENA|HM236908|HM236908.1 Human rhinovirus C isolate Resp_2951/06 polyprotein gene, partial cds.
+>ENA|HM236911|HM236911.1 Human rhinovirus C isolate Resp_3090/06 polyprotein gene, partial cds.
+>ENA|HM236918|HM236918.1 Human rhinovirus C isolate Resp_3631/07 polyprotein gene, partial cds.
+>ENA|HM236923|HM236923.1 Human rhinovirus C isolate Resp_3995/07 polyprotein gene, partial cds.
+>ENA|HM236934|HM236934.1 Human rhinovirus C isolate Resp_4917/07 polyprotein gene, partial cds.
+>ENA|HM236936|HM236936.1 Human rhinovirus C isolate Resp_5145/07 polyprotein gene, partial cds.
+>ENA|HM236939|HM236939.1 Human rhinovirus C isolate Resp_7147/07 polyprotein gene, partial cds.
+>ENA|HM236949|HM236949.1 Human rhinovirus C isolate Resp_5345/07 polyprotein gene, partial cds.
+>ENA|HM236952|HM236952.1 Human rhinovirus C isolate Resp_2832/06 polyprotein gene, partial cds.
+>ENA|HM236954|HM236954.1 Human rhinovirus C isolate Resp_3105/06 polyprotein gene, partial cds.
+>ENA|HM236958|HM236958.1 Human rhinovirus C isolate Resp_3922/07 polyprotein gene, partial cds.
+>ENA|HM236964|HM236964.1 Human rhinovirus C isolate Resp_4923/07 polyprotein gene, partial cds.
+>ENA|HM236968|HM236968.1 Human rhinovirus C isolate Resp_3898/07 polyprotein gene, partial cds.
+>ENA|HQ123444|HQ123444.1 Human rhinovirus B strain CU211 polyprotein gene, complete cds.
+>ENA|HQ223038|HQ223038.1 Bocavirus pig/SX/China/2010 NS1 (NS1), NP1 (NP1), VP1 (VP1), and VP2 (VP2) genes, complete cds.
+>ENA|HQ291308|HQ291308.1 Porcine bocavirus H18, partial genome.
+>ENA|HQ291309|HQ291309.1 Porcine bocavirus A6, partial genome.
+>ENA|HQ291309|HQ291309.2 Porcine bocavirus A6, partial genome.
+>ENA|J02094|J02094.1 Influenza B virus (B/Lee/1940) segment 7, complete sequence.
+>ENA|J02095|J02095.1 Influenza B virus (B/Lee/1940) segment 6, complete sequence.
+>ENA|J02096|J02096.1 Influenza B virus (B/Lee/1940) segment 8, complete sequence.
+>ENA|J02146|J02146.1 Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 6, complete sequence.
+>ENA|J02147|J02147.1 Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 5, complete sequence.
+>ENA|J02150|J02150.1 Influenza A virus (A/Puerto Rico/8/34(H1N1)) segment 8, complete sequence.
+>ENA|J02151|J02151.1 Influenza A virus (A/Puerto Rico/8/34(H1N1)) polymerase 1 gene, complete cds.
+>ENA|JF317015|JF317015.1 Human rhinovirus C isolate LZ508, complete genome.
+>ENA|JF416310|JF416310.1 Human rhinovirus C isolate Resp_15588/09 VP1 gene, partial cds.
+>ENA|JF416311|JF416311.1 Human rhinovirus C isolate Resp_2480/07 VP1 gene, partial cds.
+>ENA|JF416318|JF416318.1 Human rhinovirus C isolate Resp_5153/07 VP1 gene, partial cds.
+>ENA|JF416321|JF416321.1 Human rhinovirus C isolate Resp_6135/08 VP1 gene, partial cds.
+>ENA|JF416322|JF416322.1 Human rhinovirus C isolate Resp_6142/08 VP1 gene, partial cds.
+>ENA|JF429834|JF429834.1 Porcine bocavirus 3 strain SH20F, complete genome.
+>ENA|JF429835|JF429835.1 Porcine bocavirus 4-1 strain SH17N-1, complete genome.
+>ENA|JF436925|JF436925.1 Human rhinovirus C35 clone LRTI-metagenomic-1 polyprotein gene, partial cds.
+>ENA|JF519760|JF519760.1 Human rhinovirus C isolate PNG7254-3947 VP1 protein gene, partial cds.
+>ENA|JF519762|JF519762.1 Human rhinovirus C isolate PNG7293-3193 VP1 protein gene, partial cds.
+>ENA|JF781500|JF781500.1 Human rhinovirus B strain HRV-B35_p1156_sR810_2007 polyprotein gene, complete cds.
+>ENA|JF965515|JF965515.1 Human rhinovirus 103 strain WA327E/09 polyprotein gene, complete cds.
+>ENA|JN205461|JN205461.1 Human rhinovirus C strain WA823M02, complete genome.
+>ENA|JN420361|JN420361.1 California sea lion bocavirus 1 isolate 1153 NS1, NP, VP1, and VP2 genes, complete cds.
+>ENA|JN420365|JN420365.1 California sea lion bocavirus 3 isolate 9805 NS1, NP, VP1, and VP2 genes, complete cds.
+>ENA|JN542510|JN542510.1 Human coxsackievirus A22 strain 438913, complete genome.
+>ENA|JN562727|JN562727.1 Human rhinovirus A strain HRV-A24_p1025_sR2625_2009 polyprotein gene, partial cds.
+>ENA|JN614995|JN614995.1 Human rhinovirus A strain HRV-A57_p1064_sR985_2009 polyprotein gene, partial cds.
+>ENA|JN614996|JN614996.1 Human rhinovirus B strain HRV-B06_p1160_sR1153_2009 polyprotein gene, complete cds.
+>ENA|JN648103|JN648103.1 Canine bocavirus 1 isolate Con-161, complete genome.
+>ENA|JN798566|JN798566.1 Human rhinovirus C strain HRV-C49_p1277_s6237_2000 polyprotein gene, partial cds.
+>ENA|JN815249|JN815249.1 Human rhinovirus C strain HRV-C43_p1281_s6410_1999 polyprotein gene, partial cds.
+>ENA|JN815251|JN815251.1 Human rhinovirus C strain HRV-C40_p1221_sR1448_2009 polyprotein gene, partial cds.
+>ENA|JN831651|JN831651.1 Porcine bocavirus 5/JS677, complete genome.
+>ENA|JQ245971|JQ245971.1 Human rhinovirus A strain HRV-A71_p1044_sR114_2008 polyprotein gene, partial cds.
+>ENA|JQ692585|JQ692585.1 Feline bocavirus strain HK797F, complete genome.
+>ENA|JQ814850|JQ814850.1 Myotis myotis bocavirus 1, complete genome.
+>ENA|JQ922305|JQ922305.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 1 polymerase PB2 (PB2) gene, complete cds.
+>ENA|JQ922306|JQ922306.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 2 polymerase PB1 (PB1) gene, complete cds.
+>ENA|JQ922307|JQ922307.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 3 polymerase 3 (P3) gene, complete cds.
+>ENA|JQ922308|JQ922308.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 4 hemagglutinin-esterase precursor (HEF) gene, complete cds.
+>ENA|JQ922309|JQ922309.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 5 nucleoprotein (NP) gene, complete cds.
+>ENA|JQ922310|JQ922310.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 6 P42 (P42) gene, complete cds.
+>ENA|JQ922311|JQ922311.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 7 nonstructural protein 2 (NS2) and nonstructural protein 1 (NS1) genes, complete cds.
+>ENA|JX074053|JX074053.1 Human rhinovirus B strain HRV-B92_p1044_sR122_2007 polyprotein gene, partial cds.
+>ENA|K00423|K00423.1 Influenza B virus (B/Lee/1940) segment 4, complete sequence.
+>ENA|K01395|K01395.1 Influenza B virus (B/Lee/1940) segment 5, complete sequence.
+>ENA|K02121|K02121.1 Human rhinovirus type 14 (HRV14), complete genome.
+>ENA|KC339250|KC339250.1 Bat bocavirus XM30 nonstructural protein (NS1), hypothetical protein (NP1), capsid protein VP1 (VP1), and capsid protein VP2 (VP2) genes, complete cds.
+>ENA|KC339251|KC339251.1 Bat bocavirus WM40 nonstructural protein (NS1), hypothetical protein (NP1), capsid protein VP1 (VP1), and capsid protein VP2 (VP2) genes, complete cds.
+>ENA|KC785528|KC785528.1 Human coxsackievirus A22 strain BBD01 polyprotein gene, partial cds.
+>ENA|KC785530|KC785530.1 Human coxsackievirus A22 strain BBD58 polyprotein gene, partial cds.
+>ENA|KF021594|KF021594.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 1 polymerase PB2 (PB2) gene, complete cds.
+>ENA|KF021595|KF021595.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds.
+>ENA|KF021596|KF021596.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds.
+>ENA|KF021597|KF021597.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 4 hemagglutinin (HA) gene, complete cds.
+>ENA|KF021598|KF021598.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 5 nucleocapsid protein (NP) gene, complete cds.
+>ENA|KF021599|KF021599.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 6 neuraminidase (NA) gene, complete cds.
+>ENA|KF021600|KF021600.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 7 matrix protein 2 (M2) and matrix protein 1 (M1) genes, complete cds.
+>ENA|KF021601|KF021601.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds.
+>ENA|KF360033|KF360033.1 Porcine bocavirus isolate swBoV CH437, complete genome.
+>ENA|KF688606|KF688606.1 Rhinovirus C strain human/Australia/SG1/2008, partial genome.
+>ENA|KF958311|KF958311.1 Rhinovirus C isolate 2536, complete genome.
+>ENA|KJ608370|KJ608370.1 Bovine rhinovirus 1 strain SD-1, complete genome.
+>ENA|KJ675505|KJ675505.1 Rhinovirus C isolate 1570-MY-10, complete genome.
+>ENA|KJ675506|KJ675506.1 Rhinovirus C isolate 8713-MY-10, complete genome.
+>ENA|KJ675507|KJ675507.1 Rhinovirus C isolate 3430-MY-10, complete genome.
+>ENA|KM486097|KM486097.1 Rhinovirus C strain Mex14 Consensus polyprotein gene, complete cds.
+>ENA|KP282614|KP282614.1 Human rhinovirus C54 isolate D3490 polyprotein gene, complete cds.
+>ENA|KR997882|KR997882.1 Rhinovirus C isolate HRV-C16_ID639T_5UTR/VP1 polyprotein gene, partial cds.
+>ENA|KR997885|KR997885.1 Rhinovirus C isolate HRV-C55_ID529T_5UTR/2A polyprotein gene, partial cds.
+>ENA|KT215610|KT215610.1 Caprine parainfluenza virus 3 strain JS2013, complete genome.
+>ENA|KT454512|KT454512.1 Rat bocavirus strain HK1S, complete genome.
+>ENA|KT592508|KT592508.1 Bat bocavirus isolate YNJH, complete genome.
+>ENA|KU321654|KU321654.1 Miniopterus schreibersii bat bocaparvovirus strain str24 NS1 (NS1) gene, complete cds; NS2 (NS2) gene, complete cds, alternatively spliced; and NP1 (NP1), VP1 (VP1), and VP2 (VP2) genes, complete cds.
+>ENA|KU950356|KU950356.1 Mink bocavirus 1 clone 1 non-structural protein 1 (NS1), non-capsid protein 1 (NP1), capsid protein 1 (VP1), and capsid protein 2 (VP2) genes, complete cds.
+>ENA|KY214448|KY214448.1 Lupine bocavirus isolate South Douro, complete genome.
+>ENA|KY624849|KY624849.1 Rhinovirus C isolate RV-C45-cpz1-2013 polyprotein gene, complete cds.
+>ENA|L11133|L11133.1 Influenza A virus (A/Korea/426/68 (H2N2)) hemagglutinin (HA) gene, complete cds.
+>ENA|L24917|L24917.1 Human rhinovirus type 16 polyprotein gene, complete CDS.
+>ENA|L42023|L42023.1 Haemophilus influenzae Rd KW20 chromosome, complete genome.
+>ENA|LC004772|LC004772.1 Rhinovirus C gene for polyprotein, VP2, VP3, VP1 region, partial cds, strain: HRV-C/JPN/Kumamoto1/2009.
+>ENA|LN559120|LN559120.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for PB2 (PB2 gene)
+>ENA|LN559121|LN559121.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for PB1 (PB1 gene)
+>ENA|LN559122|LN559122.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for P3 (P3 gene)
+>ENA|LN559123|LN559123.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for NP (NP gene)
+>ENA|LN559124|LN559124.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for M1 (M gene)
+>ENA|LN559125|LN559125.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for NS1 (NS gene)
+>ENA|LN559126|LN559126.1 Influenza D virus (D/bovine/France/2986/2012) viral cRNA for HEF (HEF gene)
+>ENA|LN831034|LN831034.1 Streptococcus pyogenes strain NCTC8198 genome assembly, chromosome: 1
+>ENA|LN831035|LN831035.1 Haemophilus influenzae strain NCTC8143 genome assembly, chromosome: 1
+>ENA|LN845771|LN845771.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN845772|LN845772.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN845773|LN845773.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN845774|LN845774.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN845775|LN845775.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN845776|LN845776.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN845777|LN845777.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN845778|LN845778.1 Influenza A virus (A/England/12/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN845779|LN845779.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 1
+>ENA|LN845780|LN845780.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 2
+>ENA|LN845781|LN845781.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 3
+>ENA|LN845782|LN845782.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 4
+>ENA|LN845783|LN845783.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 5
+>ENA|LN845784|LN845784.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 6
+>ENA|LN845785|LN845785.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 7
+>ENA|LN845786|LN845786.1 Influenza A virus (A/England/8/2009(H1N1)) genome assembly, segment: 8
+>ENA|LN845787|LN845787.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN845788|LN845788.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN845789|LN845789.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN845790|LN845790.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN845791|LN845791.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN845792|LN845792.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN845793|LN845793.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN845794|LN845794.1 Influenza A virus (A/England/251/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846333|LN846333.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846334|LN846334.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846335|LN846335.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846336|LN846336.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846337|LN846337.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846338|LN846338.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846339|LN846339.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846340|LN846340.1 Influenza A virus (A/England/675/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846341|LN846341.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846342|LN846342.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846343|LN846343.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846344|LN846344.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846345|LN846345.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846346|LN846346.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846347|LN846347.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846348|LN846348.1 Influenza A virus (A/England/05100298/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846356|LN846356.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846357|LN846357.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846358|LN846358.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846359|LN846359.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846360|LN846360.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846361|LN846361.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846362|LN846362.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846363|LN846363.1 Influenza A virus (A/England/446/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846364|LN846364.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 1
+>ENA|LN846365|LN846365.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 2
+>ENA|LN846366|LN846366.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 3
+>ENA|LN846367|LN846367.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 4
+>ENA|LN846368|LN846368.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 5
+>ENA|LN846369|LN846369.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 6
+>ENA|LN846370|LN846370.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 7
+>ENA|LN846371|LN846371.1 Influenza A virus (A/England/WTSI1778/2009(H1N1)) genome assembly, segment: 8
+>ENA|LN846372|LN846372.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846373|LN846373.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846374|LN846374.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846375|LN846375.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846376|LN846376.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846377|LN846377.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846378|LN846378.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846379|LN846379.1 Influenza A virus (A/England/05120003/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846427|LN846427.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846428|LN846428.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846429|LN846429.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846430|LN846430.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846431|LN846431.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846432|LN846432.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846433|LN846433.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846434|LN846434.1 Influenza A virus (A/England/05040138/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846435|LN846435.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846436|LN846436.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846437|LN846437.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846438|LN846438.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846439|LN846439.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846440|LN846440.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846441|LN846441.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846442|LN846442.1 Influenza A virus (A/England/32/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846443|LN846443.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846444|LN846444.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846445|LN846445.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846446|LN846446.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846447|LN846447.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846448|LN846448.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846449|LN846449.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846450|LN846450.1 Influenza A virus (A/England/05020665/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846451|LN846451.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN846452|LN846452.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN846453|LN846453.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN846454|LN846454.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN846455|LN846455.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN846456|LN846456.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN846457|LN846457.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN846458|LN846458.1 Influenza A virus (A/England/10740707/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN846459|LN846459.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846460|LN846460.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846461|LN846461.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846462|LN846462.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846463|LN846463.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846464|LN846464.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846465|LN846465.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846466|LN846466.1 Influenza A virus (A/England/671/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846467|LN846467.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846468|LN846468.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846469|LN846469.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846470|LN846470.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846471|LN846471.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846472|LN846472.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846473|LN846473.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846474|LN846474.1 Influenza A virus (A/England/10740579/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846475|LN846475.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846476|LN846476.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846477|LN846477.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846478|LN846478.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846479|LN846479.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846480|LN846480.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846481|LN846481.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846482|LN846482.1 Influenza A virus (A/England/676/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846483|LN846483.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846484|LN846484.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846485|LN846485.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846486|LN846486.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846487|LN846487.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846488|LN846488.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846489|LN846489.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846490|LN846490.1 Influenza A virus (A/England/701/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846491|LN846491.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846492|LN846492.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846493|LN846493.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846494|LN846494.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846495|LN846495.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846496|LN846496.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846497|LN846497.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846498|LN846498.1 Influenza A virus (A/England/01220736/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846499|LN846499.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846500|LN846500.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846501|LN846501.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846502|LN846502.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846503|LN846503.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846504|LN846504.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846505|LN846505.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846506|LN846506.1 Influenza A virus (A/England/245/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846507|LN846507.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846508|LN846508.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846509|LN846509.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846510|LN846510.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846511|LN846511.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846512|LN846512.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846513|LN846513.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846514|LN846514.1 Influenza A virus (A/England/01180016/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846515|LN846515.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846516|LN846516.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846517|LN846517.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846518|LN846518.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846519|LN846519.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846520|LN846520.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846521|LN846521.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846522|LN846522.1 Influenza A virus (A/England/10820742/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846523|LN846523.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846524|LN846524.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846525|LN846525.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846526|LN846526.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846527|LN846527.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846528|LN846528.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846529|LN846529.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846530|LN846530.1 Influenza A virus (A/England/697/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846531|LN846531.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846532|LN846532.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846533|LN846533.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846534|LN846534.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846535|LN846535.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846536|LN846536.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846537|LN846537.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846538|LN846538.1 Influenza A virus (A/England/00380719/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846539|LN846539.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846540|LN846540.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846541|LN846541.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846542|LN846542.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846543|LN846543.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846544|LN846544.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846545|LN846545.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846546|LN846546.1 Influenza A virus (A/England/331/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846547|LN846547.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 1
+>ENA|LN846548|LN846548.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 2
+>ENA|LN846549|LN846549.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 3
+>ENA|LN846550|LN846550.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 4
+>ENA|LN846551|LN846551.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 5
+>ENA|LN846552|LN846552.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 6
+>ENA|LN846553|LN846553.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 7
+>ENA|LN846554|LN846554.1 Influenza A virus (A/England/9/2009(H1N1)) genome assembly, segment: 8
+>ENA|LN846555|LN846555.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN846556|LN846556.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN846557|LN846557.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN846558|LN846558.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN846559|LN846559.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN846560|LN846560.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN846561|LN846561.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN846562|LN846562.1 Influenza A virus (A/England/WTSI1822/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN846563|LN846563.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846564|LN846564.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846565|LN846565.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846566|LN846566.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846567|LN846567.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846568|LN846568.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846569|LN846569.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846570|LN846570.1 Influenza A virus (A/England/673/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846571|LN846571.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846572|LN846572.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846573|LN846573.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846574|LN846574.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846575|LN846575.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846576|LN846576.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846577|LN846577.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846578|LN846578.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846579|LN846579.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846580|LN846580.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846581|LN846581.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846582|LN846582.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846583|LN846583.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846584|LN846584.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846585|LN846585.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846586|LN846586.1 Influenza A virus (A/England/WTSI1832/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846587|LN846587.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846588|LN846588.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846589|LN846589.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846590|LN846590.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846591|LN846591.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846592|LN846592.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846593|LN846593.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846594|LN846594.1 Influenza A virus (A/England/00380718/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846620|LN846620.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846621|LN846621.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846622|LN846622.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846623|LN846623.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846624|LN846624.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846625|LN846625.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846626|LN846626.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846627|LN846627.1 Influenza A virus (A/England/343/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846628|LN846628.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN846629|LN846629.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN846630|LN846630.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN846631|LN846631.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN846632|LN846632.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN846633|LN846633.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN846634|LN846634.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN846635|LN846635.1 Influenza A virus (A/England/WTSI1781/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN846636|LN846636.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN846637|LN846637.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN846638|LN846638.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN846639|LN846639.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN846640|LN846640.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN846641|LN846641.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN846642|LN846642.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN846643|LN846643.1 Influenza A virus (A/England/10740704/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN846644|LN846644.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846645|LN846645.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846646|LN846646.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846647|LN846647.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846648|LN846648.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846649|LN846649.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846650|LN846650.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846651|LN846651.1 Influenza A virus (A/England/677/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846652|LN846652.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846653|LN846653.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846654|LN846654.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846655|LN846655.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846656|LN846656.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846657|LN846657.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846658|LN846658.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846659|LN846659.1 Influenza A virus (A/England/05160420/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846660|LN846660.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN846661|LN846661.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN846662|LN846662.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN846663|LN846663.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN846664|LN846664.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN846665|LN846665.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN846666|LN846666.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN846667|LN846667.1 Influenza A virus (A/England/WTSI2051/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN846668|LN846668.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846669|LN846669.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846670|LN846670.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846671|LN846671.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846672|LN846672.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846673|LN846673.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846674|LN846674.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846675|LN846675.1 Influenza A virus (A/England/719/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846784|LN846784.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846785|LN846785.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846786|LN846786.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846787|LN846787.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846788|LN846788.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846789|LN846789.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846790|LN846790.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846791|LN846791.1 Influenza A virus (A/England/10/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN846792|LN846792.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN846793|LN846793.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN846794|LN846794.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN846795|LN846795.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN846796|LN846796.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN846797|LN846797.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN846798|LN846798.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN846799|LN846799.1 Influenza A virus (A/England/10740685/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN849987|LN849987.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN849988|LN849988.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN849989|LN849989.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN849990|LN849990.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN849991|LN849991.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN849992|LN849992.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN849993|LN849993.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN849994|LN849994.1 Influenza A virus (A/England/10740571/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN849995|LN849995.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN849996|LN849996.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN849997|LN849997.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN849998|LN849998.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN849999|LN849999.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850000|LN850000.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850001|LN850001.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850002|LN850002.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850003|LN850003.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850004|LN850004.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850005|LN850005.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850006|LN850006.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850007|LN850007.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850008|LN850008.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850009|LN850009.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850010|LN850010.1 Influenza A virus (A/England/10820733/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850011|LN850011.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN850012|LN850012.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN850013|LN850013.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN850014|LN850014.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN850015|LN850015.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN850016|LN850016.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN850017|LN850017.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN850018|LN850018.1 Influenza A virus (A/England/10740664/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN850019|LN850019.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850020|LN850020.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850021|LN850021.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850022|LN850022.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850023|LN850023.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850024|LN850024.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850025|LN850025.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850026|LN850026.1 Influenza A virus (A/England/WTSI1769/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850027|LN850027.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850028|LN850028.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850029|LN850029.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850030|LN850030.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850031|LN850031.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850032|LN850032.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850033|LN850033.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850034|LN850034.1 Influenza A virus (A/England/29/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850035|LN850035.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850036|LN850036.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850037|LN850037.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850038|LN850038.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850039|LN850039.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850040|LN850040.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850041|LN850041.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850042|LN850042.1 Influenza A virus (A/England/694/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850043|LN850043.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850044|LN850044.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850045|LN850045.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850046|LN850046.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850047|LN850047.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850048|LN850048.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850049|LN850049.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850050|LN850050.1 Influenza A virus (A/England/468/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850051|LN850051.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850052|LN850052.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850053|LN850053.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850054|LN850054.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850055|LN850055.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850056|LN850056.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850057|LN850057.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850058|LN850058.1 Influenza A virus (A/England/687/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850059|LN850059.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850060|LN850060.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850061|LN850061.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850062|LN850062.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850063|LN850063.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850064|LN850064.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850065|LN850065.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850066|LN850066.1 Influenza A virus (A/England/10740688/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850067|LN850067.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850068|LN850068.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850069|LN850069.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850070|LN850070.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850071|LN850071.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850072|LN850072.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850073|LN850073.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850074|LN850074.1 Influenza A virus (A/England/05100297/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850075|LN850075.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850076|LN850076.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850077|LN850077.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850078|LN850078.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850079|LN850079.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850080|LN850080.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850081|LN850081.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850082|LN850082.1 Influenza A virus (A/England/00380710/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850083|LN850083.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850084|LN850084.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850085|LN850085.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850086|LN850086.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850087|LN850087.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850088|LN850088.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850089|LN850089.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850090|LN850090.1 Influenza A virus (A/England/05020662/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850091|LN850091.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850092|LN850092.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850093|LN850093.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850094|LN850094.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850095|LN850095.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850096|LN850096.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850097|LN850097.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850098|LN850098.1 Influenza A virus (A/England/717/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850099|LN850099.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850100|LN850100.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850101|LN850101.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850102|LN850102.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850103|LN850103.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850104|LN850104.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850105|LN850105.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850106|LN850106.1 Influenza A virus (A/England/WTSI1807/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850122|LN850122.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850123|LN850123.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850124|LN850124.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850125|LN850125.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850126|LN850126.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850127|LN850127.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850128|LN850128.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850129|LN850129.1 Influenza A virus (A/England/11/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850130|LN850130.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850131|LN850131.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850132|LN850132.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850133|LN850133.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850134|LN850134.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850135|LN850135.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850136|LN850136.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850137|LN850137.1 Influenza A virus (A/England/21680633/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850281|LN850281.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850282|LN850282.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850283|LN850283.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850284|LN850284.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850285|LN850285.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850286|LN850286.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850287|LN850287.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850288|LN850288.1 Influenza A virus (A/England/688/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850289|LN850289.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850290|LN850290.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850291|LN850291.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850292|LN850292.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850293|LN850293.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850294|LN850294.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850295|LN850295.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850296|LN850296.1 Influenza A virus (A/England/WTSI1826/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850297|LN850297.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN850298|LN850298.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN850299|LN850299.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN850300|LN850300.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN850301|LN850301.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN850302|LN850302.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN850303|LN850303.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN850304|LN850304.1 Influenza A virus (A/England/132/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN850305|LN850305.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850306|LN850306.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850307|LN850307.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850308|LN850308.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850309|LN850309.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850310|LN850310.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850311|LN850311.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850312|LN850312.1 Influenza A virus (A/England/692/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850318|LN850318.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850319|LN850319.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850320|LN850320.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850321|LN850321.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850322|LN850322.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850323|LN850323.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850324|LN850324.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850325|LN850325.1 Influenza A virus (A/England/377/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850326|LN850326.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850327|LN850327.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850328|LN850328.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850329|LN850329.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850330|LN850330.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850331|LN850331.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850332|LN850332.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850333|LN850333.1 Influenza A virus (A/England/05020673/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850334|LN850334.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850335|LN850335.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850336|LN850336.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850337|LN850337.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850338|LN850338.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850339|LN850339.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850340|LN850340.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850341|LN850341.1 Influenza A virus (A/England/00380709/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850342|LN850342.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850343|LN850343.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850344|LN850344.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850345|LN850345.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850346|LN850346.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850347|LN850347.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850348|LN850348.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850349|LN850349.1 Influenza A virus (A/England/01180018/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850361|LN850361.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850362|LN850362.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850363|LN850363.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850364|LN850364.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850365|LN850365.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850366|LN850366.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850367|LN850367.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850368|LN850368.1 Influenza A virus (A/England/04900053/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850418|LN850418.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850419|LN850419.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850420|LN850420.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850421|LN850421.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850422|LN850422.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850423|LN850423.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850424|LN850424.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850425|LN850425.1 Influenza A virus (A/England/01180007/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850426|LN850426.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850427|LN850427.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850428|LN850428.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850429|LN850429.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850430|LN850430.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850431|LN850431.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850432|LN850432.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850433|LN850433.1 Influenza A virus (A/England/10820734/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850434|LN850434.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 1
+>ENA|LN850435|LN850435.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 2
+>ENA|LN850436|LN850436.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 3
+>ENA|LN850437|LN850437.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 4
+>ENA|LN850438|LN850438.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 5
+>ENA|LN850439|LN850439.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 6
+>ENA|LN850440|LN850440.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 7
+>ENA|LN850441|LN850441.1 Influenza A virus (A/England/11520759/2011(H1N1)) genome assembly, segment: 8
+>ENA|LN850708|LN850708.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850709|LN850709.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850710|LN850710.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850711|LN850711.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850712|LN850712.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850713|LN850713.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850714|LN850714.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850715|LN850715.1 Influenza A virus (A/England/393/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850716|LN850716.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850717|LN850717.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850718|LN850718.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850719|LN850719.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850720|LN850720.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850721|LN850721.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850722|LN850722.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850723|LN850723.1 Influenza A virus (A/England/04980053/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN850724|LN850724.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN850725|LN850725.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN850726|LN850726.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN850727|LN850727.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN850728|LN850728.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN850729|LN850729.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN850730|LN850730.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN850731|LN850731.1 Influenza A virus (A/England/10740561/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN866281|LN866281.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN866282|LN866282.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN866283|LN866283.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN866284|LN866284.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN866285|LN866285.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN866286|LN866286.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN866287|LN866287.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN866288|LN866288.1 Influenza A virus (A/England/12240612/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN866298|LN866298.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN866299|LN866299.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN866300|LN866300.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN866301|LN866301.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN866302|LN866302.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN866303|LN866303.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN866304|LN866304.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN866305|LN866305.1 Influenza A virus (A/England/10740681/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN866306|LN866306.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN866307|LN866307.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN866308|LN866308.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN866309|LN866309.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN866310|LN866310.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN866311|LN866311.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN866312|LN866312.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN866313|LN866313.1 Influenza A virus (A/England/WTSI2060/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN866314|LN866314.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN866315|LN866315.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN866316|LN866316.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN866317|LN866317.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN866318|LN866318.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN866319|LN866319.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN866320|LN866320.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN866321|LN866321.1 Influenza A virus (A/England/700/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867322|LN867322.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867323|LN867323.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867324|LN867324.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867325|LN867325.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867326|LN867326.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867327|LN867327.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867328|LN867328.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867329|LN867329.1 Influenza A virus (A_England_05000088_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867330|LN867330.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867331|LN867331.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867332|LN867332.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867333|LN867333.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867334|LN867334.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867335|LN867335.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867336|LN867336.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867337|LN867337.1 Influenza A virus (A_England_690_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867338|LN867338.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867339|LN867339.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867340|LN867340.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867341|LN867341.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867342|LN867342.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867343|LN867343.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867344|LN867344.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867345|LN867345.1 Influenza A virus (A_England_05140281_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867346|LN867346.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867347|LN867347.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867348|LN867348.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867349|LN867349.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867350|LN867350.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867351|LN867351.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867352|LN867352.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867353|LN867353.1 Influenza A virus (A_England_01220741_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867354|LN867354.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867355|LN867355.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867356|LN867356.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867357|LN867357.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867358|LN867358.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867359|LN867359.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867360|LN867360.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867361|LN867361.1 Influenza A virus (A_England_414_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867362|LN867362.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867363|LN867363.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867364|LN867364.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867365|LN867365.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867366|LN867366.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867367|LN867367.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867368|LN867368.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867369|LN867369.1 Influenza A virus (A_England_WTSI1751_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867370|LN867370.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867371|LN867371.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867372|LN867372.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867373|LN867373.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867374|LN867374.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867375|LN867375.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867376|LN867376.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867377|LN867377.1 Influenza A virus (A/England/WTSI1774/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867378|LN867378.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867379|LN867379.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867380|LN867380.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867381|LN867381.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867382|LN867382.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867383|LN867383.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867384|LN867384.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867385|LN867385.1 Influenza A virus (A_England_377_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867386|LN867386.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867387|LN867387.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867388|LN867388.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867389|LN867389.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867390|LN867390.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867391|LN867391.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867392|LN867392.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867393|LN867393.1 Influenza A virus (A_England_01580005_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867394|LN867394.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867395|LN867395.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867396|LN867396.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867397|LN867397.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867398|LN867398.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867399|LN867399.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867400|LN867400.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867401|LN867401.1 Influenza A virus (A_England_WTSI1783_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867404|LN867404.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867405|LN867405.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867406|LN867406.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867407|LN867407.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867408|LN867408.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867409|LN867409.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867410|LN867410.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867411|LN867411.1 Influenza A virus (A_England_665_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867412|LN867412.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867413|LN867413.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867414|LN867414.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867415|LN867415.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867416|LN867416.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867417|LN867417.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867418|LN867418.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867419|LN867419.1 Influenza A virus (A_England_343_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867420|LN867420.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867421|LN867421.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867422|LN867422.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867423|LN867423.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867424|LN867424.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867425|LN867425.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867426|LN867426.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867427|LN867427.1 Influenza A virus (A_England_01180015_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867428|LN867428.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867429|LN867429.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867430|LN867430.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867431|LN867431.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867432|LN867432.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867433|LN867433.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867434|LN867434.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867435|LN867435.1 Influenza A virus (A_England_10740623_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867436|LN867436.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867437|LN867437.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867438|LN867438.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867439|LN867439.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867440|LN867440.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867441|LN867441.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867442|LN867442.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867443|LN867443.1 Influenza A virus (A_England_10740691_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867451|LN867451.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867452|LN867452.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867453|LN867453.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867454|LN867454.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867455|LN867455.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867456|LN867456.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867457|LN867457.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867458|LN867458.1 Influenza A virus (A_England_10740561_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867459|LN867459.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867460|LN867460.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867461|LN867461.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867462|LN867462.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867463|LN867463.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867464|LN867464.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867465|LN867465.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867466|LN867466.1 Influenza A virus (A_England_04860560_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867467|LN867467.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867468|LN867468.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867469|LN867469.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867470|LN867470.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867471|LN867471.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867472|LN867472.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867473|LN867473.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867474|LN867474.1 Influenza A virus (A_England_10740658_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867475|LN867475.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867476|LN867476.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867477|LN867477.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867478|LN867478.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867479|LN867479.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867480|LN867480.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867481|LN867481.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867482|LN867482.1 Influenza A virus (A_England_10740693_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867483|LN867483.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867484|LN867484.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867485|LN867485.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867486|LN867486.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867487|LN867487.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867488|LN867488.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867489|LN867489.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867490|LN867490.1 Influenza A virus (A_England_01180017_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867491|LN867491.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867492|LN867492.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867493|LN867493.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867494|LN867494.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867495|LN867495.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867496|LN867496.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867497|LN867497.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867498|LN867498.1 Influenza A virus (A/England/10740581/2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867499|LN867499.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867500|LN867500.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867501|LN867501.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867502|LN867502.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867503|LN867503.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867504|LN867504.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867505|LN867505.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867506|LN867506.1 Influenza A virus (A_England_04980055_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867507|LN867507.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867508|LN867508.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867509|LN867509.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867510|LN867510.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867511|LN867511.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867512|LN867512.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867513|LN867513.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867514|LN867514.1 Influenza A virus (A_England_05080831_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867515|LN867515.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867516|LN867516.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867517|LN867517.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867518|LN867518.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867519|LN867519.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867520|LN867520.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867521|LN867521.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867522|LN867522.1 Influenza A virus (A_England_05140216_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867625|LN867625.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867626|LN867626.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867627|LN867627.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867628|LN867628.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867629|LN867629.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867630|LN867630.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867631|LN867631.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867632|LN867632.1 Influenza A virus (A_England_04980653_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867633|LN867633.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867634|LN867634.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867635|LN867635.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867636|LN867636.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867637|LN867637.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867638|LN867638.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867639|LN867639.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867640|LN867640.1 Influenza A virus (A_England_05080637_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867641|LN867641.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867642|LN867642.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867643|LN867643.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867644|LN867644.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867645|LN867645.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867646|LN867646.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867647|LN867647.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867648|LN867648.1 Influenza A virus (A_England_05140176_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867649|LN867649.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 1
+>ENA|LN867650|LN867650.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 2
+>ENA|LN867651|LN867651.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 3
+>ENA|LN867652|LN867652.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 4
+>ENA|LN867653|LN867653.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 5
+>ENA|LN867654|LN867654.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 6
+>ENA|LN867655|LN867655.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 7
+>ENA|LN867656|LN867656.1 Influenza A virus (A_England_01220639_2009(H1N1)) genome assembly, segment: 8
+>ENA|LN867657|LN867657.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867658|LN867658.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867659|LN867659.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867660|LN867660.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867661|LN867661.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867662|LN867662.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867663|LN867663.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867664|LN867664.1 Influenza A virus (A_England_672_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867665|LN867665.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867666|LN867666.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867667|LN867667.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867668|LN867668.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867669|LN867669.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867670|LN867670.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867671|LN867671.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867672|LN867672.1 Influenza A virus (A_England_12240614_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867673|LN867673.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867674|LN867674.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867675|LN867675.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867676|LN867676.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867677|LN867677.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867678|LN867678.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867679|LN867679.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867680|LN867680.1 Influenza A virus (A_England_WTSI2067_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867681|LN867681.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867682|LN867682.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867683|LN867683.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867684|LN867684.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867685|LN867685.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867686|LN867686.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867687|LN867687.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867688|LN867688.1 Influenza A virus (A_England_689_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867689|LN867689.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867690|LN867690.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867691|LN867691.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867692|LN867692.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867693|LN867693.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867694|LN867694.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867695|LN867695.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867696|LN867696.1 Influenza A virus (A_England_686_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867697|LN867697.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867698|LN867698.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867699|LN867699.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867700|LN867700.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867701|LN867701.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867702|LN867702.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867703|LN867703.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867704|LN867704.1 Influenza A virus (A_England_05100301_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867705|LN867705.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867706|LN867706.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867707|LN867707.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867708|LN867708.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867709|LN867709.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867710|LN867710.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867711|LN867711.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867712|LN867712.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867713|LN867713.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867714|LN867714.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867715|LN867715.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867716|LN867716.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867717|LN867717.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867718|LN867718.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867719|LN867719.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867720|LN867720.1 Influenza A virus (A_England_331_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867721|LN867721.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867722|LN867722.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867723|LN867723.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867724|LN867724.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867725|LN867725.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867726|LN867726.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867727|LN867727.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867728|LN867728.1 Influenza A virus (A_England_05020673_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867729|LN867729.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867730|LN867730.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867731|LN867731.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867732|LN867732.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867733|LN867733.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867734|LN867734.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867735|LN867735.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867736|LN867736.1 Influenza A virus (A_England_213_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867737|LN867737.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867738|LN867738.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867739|LN867739.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867740|LN867740.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867741|LN867741.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867742|LN867742.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867743|LN867743.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867744|LN867744.1 Influenza A virus (A_England_05100660_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867745|LN867745.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867746|LN867746.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867747|LN867747.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867748|LN867748.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867749|LN867749.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867750|LN867750.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867751|LN867751.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867752|LN867752.1 Influenza A virus (A_England_05140177_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867753|LN867753.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867754|LN867754.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867755|LN867755.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867756|LN867756.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867757|LN867757.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867758|LN867758.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867759|LN867759.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867760|LN867760.1 Influenza A virus (A_England_01580003_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867761|LN867761.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867762|LN867762.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867763|LN867763.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867764|LN867764.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867765|LN867765.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867766|LN867766.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867767|LN867767.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867768|LN867768.1 Influenza A virus (A_England_12240607_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867769|LN867769.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867770|LN867770.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867771|LN867771.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867772|LN867772.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867773|LN867773.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867774|LN867774.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867775|LN867775.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867776|LN867776.1 Influenza A virus (A_England_446_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867777|LN867777.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867778|LN867778.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867779|LN867779.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867780|LN867780.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867781|LN867781.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867782|LN867782.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867783|LN867783.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867784|LN867784.1 Influenza A virus (A_England_01180011_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867785|LN867785.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 1
+>ENA|LN867786|LN867786.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 2
+>ENA|LN867787|LN867787.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 3
+>ENA|LN867788|LN867788.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 4
+>ENA|LN867789|LN867789.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 5
+>ENA|LN867790|LN867790.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 6
+>ENA|LN867791|LN867791.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 7
+>ENA|LN867792|LN867792.1 Influenza A virus (A_England_10740690_2011(H1N1)) genome assembly, segment: 8
+>ENA|LN867793|LN867793.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867794|LN867794.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867795|LN867795.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867796|LN867796.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867797|LN867797.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867798|LN867798.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867799|LN867799.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867800|LN867800.1 Influenza A virus (A_England_05140856_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867801|LN867801.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867802|LN867802.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867803|LN867803.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867804|LN867804.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867805|LN867805.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867806|LN867806.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867807|LN867807.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867808|LN867808.1 Influenza A virus (A_England_01220740_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867809|LN867809.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867810|LN867810.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867811|LN867811.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867812|LN867812.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867813|LN867813.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867814|LN867814.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867815|LN867815.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867816|LN867816.1 Influenza A virus (A_England_04980045_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867817|LN867817.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867818|LN867818.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867819|LN867819.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867820|LN867820.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867821|LN867821.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867822|LN867822.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867823|LN867823.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867824|LN867824.1 Influenza A virus (A_England_WTSI2076_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867825|LN867825.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867826|LN867826.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867827|LN867827.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867828|LN867828.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867829|LN867829.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867830|LN867830.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867831|LN867831.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867832|LN867832.1 Influenza A virus (A_England_05140283_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867833|LN867833.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867834|LN867834.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867835|LN867835.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867836|LN867836.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867837|LN867837.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867838|LN867838.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867839|LN867839.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867840|LN867840.1 Influenza A virus (A_England_283_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867841|LN867841.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867842|LN867842.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867843|LN867843.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867844|LN867844.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867845|LN867845.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867846|LN867846.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867847|LN867847.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867848|LN867848.1 Influenza A virus (A_England_393_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867849|LN867849.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867850|LN867850.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867851|LN867851.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867852|LN867852.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867853|LN867853.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867854|LN867854.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867855|LN867855.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867856|LN867856.1 Influenza A virus (A_England_05140847_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867857|LN867857.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867858|LN867858.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867859|LN867859.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867860|LN867860.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867861|LN867861.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867862|LN867862.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867863|LN867863.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867864|LN867864.1 Influenza A virus (A_England_374_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867865|LN867865.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867866|LN867866.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867867|LN867867.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867868|LN867868.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867869|LN867869.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867870|LN867870.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867871|LN867871.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867872|LN867872.1 Influenza A virus (A_England_718_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867873|LN867873.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867874|LN867874.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867875|LN867875.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867876|LN867876.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867877|LN867877.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867878|LN867878.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867879|LN867879.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867880|LN867880.1 Influenza A virus (A_England_05120013_2010(H1N1)) genome assembly, segment: 8
+>ENA|LN867881|LN867881.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 1
+>ENA|LN867882|LN867882.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 2
+>ENA|LN867883|LN867883.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 3
+>ENA|LN867884|LN867884.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 4
+>ENA|LN867885|LN867885.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 5
+>ENA|LN867886|LN867886.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 6
+>ENA|LN867887|LN867887.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 7
+>ENA|LN867888|LN867888.1 Influenza A virus (A/England/374/2010(H1N1)) genome assembly, segment: 8
+>ENA|LR027540|LR027540.1 Coxsackievirus A7 isolate CV-A7|37183|TKM|2010 genome assembly, complete genome: monopartite
+>ENA|LR027548|LR027548.1 Coxsackievirus A5 isolate CV-A5|41143|RUS|2011 genome assembly, complete genome: monopartite
+>ENA|LR027549|LR027549.1 Coxsackievirus A2 isolate CV-A2|41963|RUS|2011 genome assembly, complete genome: monopartite
+>ENA|LR027550|LR027550.1 Coxsackievirus A2 isolate CV-A2|41149|RUS|2011 genome assembly, complete genome: monopartite
+>ENA|LR027551|LR027551.1 Coxsackievirus A2 isolate CV-A2|42115|RUS|2011 genome assembly, complete genome: monopartite
+>ENA|LR027552|LR027552.1 Coxsackievirus A6 isolate CV-A6|40428|TKM|2011 genome assembly, complete genome: monopartite
+>ENA|LR031521|LR031521.1 Streptococcus pyogenes strain S119 genome assembly, chromosome: 1
+>ENA|LR129840|LR129840.1 Streptococcus pneumoniae strain 4496 genome assembly, chromosome: 1
+>ENA|LR129841|LR129841.1 Streptococcus pneumoniae strain 947 genome assembly, chromosome: 1
+>ENA|LR129843|LR129843.1 Streptococcus pneumoniae strain 180-2 genome assembly, chromosome: 1
+>ENA|LR129844|LR129844.1 Streptococcus pneumoniae strain 180-15 genome assembly, chromosome: 1
+>ENA|LR130236|LR130236.1 Streptococcus pyogenes strain 5448 genome assembly, chromosome: 1
+>ENA|LR130237|LR130237.1 Streptococcus pyogenes strain SP444 genome assembly, chromosome: 1
+>ENA|LR130238|LR130238.1 Streptococcus pyogenes strain HKU419 genome assembly, chromosome: 1
+>ENA|LR130239|LR130239.1 Streptococcus pyogenes strain PS003 genome assembly, chromosome: 1
+>ENA|LR130240|LR130240.1 Streptococcus pyogenes strain PS006 genome assembly, chromosome: 1
+>ENA|LR130509|LR130509.1 Staphylococcus aureus strain BPH2760 genome assembly, chromosome: 1
+>ENA|LR130511|LR130511.1 Staphylococcus aureus strain BPH2819 genome assembly, chromosome: 1
+>ENA|LR130513|LR130513.1 Staphylococcus aureus strain BPH2900 genome assembly, chromosome: 1
+>ENA|LR130515|LR130515.1 Staphylococcus aureus strain BPH2947 genome assembly, chromosome: 1
+>ENA|LR130518|LR130518.1 Staphylococcus aureus strain BPH2986 genome assembly, chromosome: 1
+>ENA|LR130538|LR130538.1 Klebsiella variicola strain AJ292 genome assembly, chromosome: 1
+>ENA|LR130539|LR130539.1 Klebsiella variicola strain AJ055 genome assembly, chromosome: 1
+>ENA|LR130541|LR130541.1 Klebsiella pneumoniae strain AJ218 genome assembly, chromosome: 1
+>ENA|LR130543|LR130543.1 Klebsiella variicola strain 04153260899A genome assembly, chromosome: 1
+>ENA|LR130544|LR130544.1 Klebsiella variicola strain 03-311-0071 genome assembly, chromosome: 1
+>ENA|LR130545|LR130545.1 Escherichia coli strain B36 genome assembly, chromosome: 1
+>ENA|LR130548|LR130548.1 Klebsiella pneumoniae strain KPC2 genome assembly, chromosome: 1
+>ENA|LR130552|LR130552.1 Escherichia coli strain MS14386 genome assembly, chromosome: 1
+>ENA|LR130555|LR130555.1 Escherichia coli strain MS14385 genome assembly, chromosome: 1
+>ENA|LR130562|LR130562.1 Escherichia coli strain MS14384 genome assembly, chromosome: 1
+>ENA|LR130564|LR130564.1 Escherichia coli strain MS14387 genome assembly, chromosome: 1
+>ENA|LR133933|LR133933.1 Legionella pneumophila strain NCTC12180 genome assembly, chromosome: 1
+>ENA|LR134168|LR134168.1 Haemophilus influenzae strain NCTC11394 genome assembly, chromosome: 1
+>ENA|LR134171|LR134171.1 Haemophilus influenzae strain NCTC12699 genome assembly, chromosome: 1
+>ENA|LR134176|LR134176.1 Legionella pneumophila strain NCTC12179 genome assembly, chromosome: 1
+>ENA|LR134272|LR134272.1 Streptococcus pyogenes strain NCTC12060 genome assembly, chromosome: 1
+>ENA|LR134284|LR134284.1 Streptococcus pyogenes strain NCTC8232 genome assembly, chromosome: 1
+>ENA|LR134314|LR134314.1 Streptococcus pyogenes strain NCTC8302 genome assembly, chromosome: 1
+>ENA|LR134332|LR134332.1 Legionella pneumophila strain NCTC11193 genome assembly, chromosome: 1
+>ENA|LR134380|LR134380.1 Legionella pneumophila subsp. pascullei strain NCTC12273 genome assembly, chromosome: 1
+>ENA|LR134490|LR134490.1 Haemophilus influenzae strain NCTC11873 genome assembly, chromosome: 1
+>ENA|LR214945|LR214945.1 Mycoplasma pneumoniae strain NCTC10119 genome assembly, chromosome: 1
+>ENA|LR590465|LR590465.1 Haemophilus influenzae strain NCTC8468 genome assembly, chromosome: 1
+>ENA|LR590466|LR590466.1 Streptococcus pyogenes strain NCTC8193 genome assembly, chromosome: 1
+>ENA|LR590483|LR590483.1 Streptococcus pyogenes strain NCTC8318 genome assembly, chromosome: 1
+>ENA|LR595848|LR595848.1 Streptococcus pneumoniae strain 4559 genome assembly, chromosome: 1
+>ENA|LS483298|LS483298.1 Streptococcus pyogenes strain NCTC8225 genome assembly, chromosome: 1
+>ENA|LS483307|LS483307.1 Streptococcus pyogenes strain NCTC5163 genome assembly, chromosome: 1
+>ENA|LS483315|LS483315.1 Streptococcus pyogenes strain NCTC12059 genome assembly, chromosome: 1
+>ENA|LS483320|LS483320.1 Streptococcus pyogenes strain NCTC5164 genome assembly, chromosome: 1
+>ENA|LS483321|LS483321.1 Streptococcus pyogenes strain NCTC8314 genome assembly, chromosome: 1
+>ENA|LS483322|LS483322.1 Streptococcus pyogenes strain NCTC12066 genome assembly, chromosome: 1
+>ENA|LS483323|LS483323.1 Streptococcus pyogenes strain NCTC8300 genome assembly, chromosome: 1
+>ENA|LS483326|LS483326.1 Streptococcus pyogenes strain NCTC12045 genome assembly, chromosome: 1
+>ENA|LS483327|LS483327.1 Streptococcus pyogenes strain NCTC12069 genome assembly, chromosome: 1
+>ENA|LS483329|LS483329.1 Streptococcus pyogenes strain NCTC12058 genome assembly, chromosome: 1
+>ENA|LS483330|LS483330.1 Streptococcus pyogenes strain NCTC8328 genome assembly, chromosome: 1
+>ENA|LS483331|LS483331.1 Streptococcus pyogenes strain NCTC12057 genome assembly, chromosome: 1
+>ENA|LS483332|LS483332.1 Streptococcus pyogenes strain NCTC12696 genome assembly, chromosome: 1
+>ENA|LS483333|LS483333.1 Streptococcus pyogenes strain NCTC12048 genome assembly, chromosome: 1
+>ENA|LS483334|LS483334.1 Streptococcus pyogenes strain NCTC12050 genome assembly, chromosome: 1
+>ENA|LS483335|LS483335.1 Streptococcus pyogenes strain NCTC8332 genome assembly, chromosome: 1
+>ENA|LS483336|LS483336.1 Streptococcus pyogenes strain NCTC12046 genome assembly, chromosome: 1
+>ENA|LS483337|LS483337.1 Streptococcus pyogenes strain NCTC12047 genome assembly, chromosome: 1
+>ENA|LS483338|LS483338.1 Streptococcus pyogenes strain NCTC12064 genome assembly, chromosome: 1
+>ENA|LS483340|LS483340.1 Streptococcus pyogenes strain NCTC12062 genome assembly, chromosome: 1
+>ENA|LS483344|LS483344.1 Streptococcus pyogenes strain NCTC12840 genome assembly, chromosome: 1
+>ENA|LS483345|LS483345.1 Streptococcus pyogenes strain NCTC8231 genome assembly, chromosome: 1
+>ENA|LS483347|LS483347.1 Streptococcus pyogenes strain NCTC8324 genome assembly, chromosome: 1
+>ENA|LS483351|LS483351.1 Streptococcus pyogenes strain NCTC8195 genome assembly, chromosome: 1
+>ENA|LS483352|LS483352.1 Streptococcus pyogenes strain NCTC12052 genome assembly, chromosome: 1
+>ENA|LS483353|LS483353.1 Streptococcus pyogenes strain NCTC4001 genome assembly, chromosome: 1
+>ENA|LS483355|LS483355.1 Streptococcus pyogenes strain NCTC12067 genome assembly, chromosome: 1
+>ENA|LS483356|LS483356.1 Streptococcus pyogenes strain NCTC8230 genome assembly, chromosome: 1
+>ENA|LS483357|LS483357.1 Streptococcus pyogenes strain NCTC8326 genome assembly, chromosome: 1
+>ENA|LS483359|LS483359.1 Streptococcus pyogenes strain NCTC12068 genome assembly, chromosome: 1
+>ENA|LS483360|LS483360.1 Streptococcus pyogenes strain NCTC10876 genome assembly, chromosome: 1
+>ENA|LS483379|LS483379.1 Streptococcus pyogenes strain NCTC10874 genome assembly, chromosome: 1
+>ENA|LS483382|LS483382.1 Streptococcus pyogenes strain NCTC13738 genome assembly, chromosome: 1
+>ENA|LS483384|LS483384.1 Streptococcus pyogenes strain NCTC13743 genome assembly, chromosome: 1
+>ENA|LS483386|LS483386.1 Streptococcus pyogenes strain NCTC13742 genome assembly, chromosome: 1
+>ENA|LS483389|LS483389.1 Streptococcus pyogenes strain NCTC10879 genome assembly, chromosome: 1
+>ENA|LS483391|LS483391.1 Streptococcus pyogenes strain NCTC8320 genome assembly, chromosome: 1
+>ENA|LS483392|LS483392.1 Haemophilus influenzae strain NCTC11931 genome assembly, chromosome: 1
+>ENA|LS483394|LS483394.1 Streptococcus pyogenes strain NCTC10880 genome assembly, chromosome: 1
+>ENA|LS483399|LS483399.1 Streptococcus pyogenes strain NCTC8227 genome assembly, chromosome: 1
+>ENA|LS483401|LS483401.1 Streptococcus pyogenes strain NCTC10085 genome assembly, chromosome: 1
+>ENA|LS483407|LS483407.1 Streptococcus pyogenes strain NCTC13744 genome assembly, chromosome: 1
+>ENA|LS483410|LS483410.1 Legionella pneumophila strain NCTC11404 genome assembly, chromosome: 1
+>ENA|LS483411|LS483411.1 Haemophilus influenzae strain NCTC11426 genome assembly, chromosome: 1
+>ENA|LS483412|LS483412.1 Legionella pneumophila subsp. pascullei strain NCTC12272 genome assembly, chromosome: 1
+>ENA|LS483414|LS483414.1 Streptococcus pyogenes strain NCTC13736 genome assembly, chromosome: 1
+>ENA|LS483415|LS483415.1 Streptococcus pyogenes strain NCTC8304 genome assembly, chromosome: 1
+>ENA|LS483420|LS483420.1 Streptococcus pyogenes strain NCTC13739 genome assembly, chromosome: 1
+>ENA|LS483421|LS483421.1 Streptococcus pyogenes strain NCTC10877 genome assembly, chromosome: 1
+>ENA|LS483425|LS483425.1 Streptococcus pyogenes strain NCTC13737 genome assembly, chromosome: 1
+>ENA|LS483430|LS483430.1 Streptococcus pyogenes strain NCTC12044 genome assembly, chromosome: 1
+>ENA|LS483432|LS483432.1 Streptococcus pyogenes strain NCTC13745 genome assembly, chromosome: 1
+>ENA|LS483437|LS483437.1 Streptococcus pyogenes strain NCTC13751 genome assembly, chromosome: 1
+>ENA|LS483438|LS483438.1 Haemophilus influenzae strain NCTC12975 genome assembly, chromosome: 1
+>ENA|LS483442|LS483442.1 Streptococcus pyogenes strain NCTC8370 genome assembly, chromosome: 1
+>ENA|LS483480|LS483480.1 Haemophilus influenzae strain NCTC13377 genome assembly, chromosome: 1
+>ENA|LS483486|LS483486.1 Haemophilus influenzae strain NCTC12194 genome assembly, chromosome: 1
+>ENA|LS483496|LS483496.1 Haemophilus influenzae strain NCTC8455 genome assembly, chromosome: 1
+>ENA|LS483520|LS483520.1 Streptococcus pyogenes strain NCTC8322 genome assembly, chromosome: 1
+>ENA|LS483521|LS483521.1 Streptococcus pyogenes strain NCTC8316 genome assembly, chromosome: 1
+>ENA|LS483522|LS483522.1 Streptococcus pyogenes strain NCTC8224 genome assembly, chromosome: 1
+>ENA|LT598657|LT598657.1 Legionella pneumophila strain Lpm7613 genome assembly, chromosome: 1
+>ENA|LT632614|LT632614.1 Legionella pneumophila strain ST62 genome assembly, chromosome: 1
+>ENA|LT632615|LT632615.1 Legionella pneumophila strain ST23 genome assembly, chromosome: 1
+>ENA|LT632616|LT632616.1 Legionella pneumophila strain ST37 genome assembly, chromosome: 1
+>ENA|LT632617|LT632617.1 Legionella pneumophila strain ST42 genome assembly, chromosome: 1
+>ENA|LT906452|LT906452.1 Legionella pneumophila strain NCTC11985 genome assembly, chromosome: 1
+>ENA|LT906476|LT906476.1 Legionella pneumophila strain NCTC11286 genome assembly, chromosome: 1
+>ENA|LT934387|LT934387.1 Coxsackievirus A24 strain P12_TUN genome assembly, chromosome: I
+>ENA|M14880|M14880.1 Influenza B virus (B/Lee/40) segment 1, complete sequence.
+>ENA|M16248|M16248.1 Human rhinovirus type 89 (HRV89), complete genome.
+>ENA|M16560|M16560.1 Coxsackievirus B1, complete genome.
+>ENA|M25935|M25935.1 Influenza A virus (A/Korea/426/68(H2N2)) PB1 polymerase subunit gene, complete cds.
+>ENA|M26079|M26079.1 Influenza A virus (A/Korea/426/68(H2N2)) RNA polymerase 2 gene, complete cds.
+>ENA|M63531|M63531.1 Influenza A virus (A/Korea/426/68 (H2N2)) membrane protein M1 and membrane protein M2 genes, complete cds.
+>ENA|M73524|M73524.1 Influenza A virus (A/Korea/426/68(H2N2)) polymerase 2 (PB2) gene, complete cds.
+>ENA|M88483|M88483.1 Coxsackievirus B3 mRNA, complete genome.
+>ENA|MG642025|MG642025.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_232/1982, complete genome.
+>ENA|MG642027|MG642027.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_275/1991, complete genome.
+>ENA|MG642036|MG642036.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_271/1989, complete genome.
+>ENA|MG642037|MG642037.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_208/1980, complete genome.
+>ENA|MG642039|MG642039.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_268/1985, complete genome.
+>ENA|MG642042|MG642042.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_242/1985, complete genome.
+>ENA|MG642043|MG642043.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_228/1982, complete genome.
+>ENA|MG642044|MG642044.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_231/1982, complete genome.
+>ENA|MG642045|MG642045.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_205/1979, complete genome.
+>ENA|MG642046|MG642046.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_239/1984, complete genome.
+>ENA|MG642047|MG642047.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_213/1980, complete genome.
+>ENA|MG642049|MG642049.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_278/1993, complete genome.
+>ENA|MG642051|MG642051.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_249/1986, complete genome.
+>ENA|MG642053|MG642053.1 UNVERIFIED: Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_210/1980 cRNA sequence.
+>ENA|MG642054|MG642054.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_276/1991, complete genome.
+>ENA|MG642057|MG642057.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_241/1984, complete genome.
+>ENA|MG642059|MG642059.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_267/1983, complete genome.
+>ENA|MG642062|MG642062.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_282/1996, complete genome.
+>ENA|MG642064|MG642064.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_280/1995, complete genome.
+>ENA|MG642065|MG642065.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_225/1981, complete genome.
+>ENA|MG642066|MG642066.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_273/1990, complete genome.
+>ENA|MG642068|MG642068.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_252/1987, complete genome.
+>ENA|MG642072|MG642072.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_274/1991, complete genome.
+>ENA|MG642076|MG642076.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_251/1987, complete genome.
+>ENA|MG642078|MG642078.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_230/1982, complete genome.
+>ENA|MG642082|MG642082.1 Human respiratory syncytial virus B strain RSVB/Homo sapiens/USA/MCRSV_257/1989, complete genome.
+>ENA|MN513338|MN513338.1 Human adenovirus E4 isolate SG01/HAdvE4/2016, complete genome.
+>ENA|U00089|U00089.2 Mycoplasma pneumoniae M129, complete genome.
+>ENA|U05876|U05876.1 coxsackievirus A16 G-10, complete genome.
+>ENA|V00603|V00603.1 Influenza A virus (A/PR/8/34(H1N1)) mRNA for hypothetical protein, strain A/PR/8/34
+>ENA|V01088|V01088.1 Influenza A virus (A/PR/8/34(HON1)) hemagglutinin gene
+>ENA|V01099|V01099.1 Influenza A virus (A/PR/8/1934(H1N1)) ORF1 and ORF2, genomic RNA
+>ENA|V01106|V01106.1 Influenza A virus (A/Puerto Rico/8/1934(H1N1)) ORF1, genomic RNA
+>ENA|X02316|X02316.1 Human rhinovirus 2, complete sequence
+>ENA|X05690|X05690.1 Coxsackievirus B4 complete genome
