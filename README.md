@@ -68,8 +68,8 @@ Options:
 -s (Optional) If given it’s the sizes in which the program will use, the sizes must be separated by commas. Example: 20,21,23. If not given the sizes for default are going to be from 20 to 25.  
 -p (Optional) Is the number of cores/threads that are going to be used, if not given 1 is going to be used.  
 -o Is the place where the directory with the output files is going to be saved.  
--x Do not fill the gaps of kmers with N in the groups of interest.  
--y Do not fill the gaps of kmers with N in the other group.  
+-x Fill the gaps of kmers with N in the groups of interest.  
+-y Fill the gaps of kmers with N in the other group.  
 -d If this flag is used the intermediate folder won't be deleted.  
 
 It’s important that in the directories of the fasta files of each group all the fasta files have the “.fasta” termination, any file with another termination will be ignored.  
