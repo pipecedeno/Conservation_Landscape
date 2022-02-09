@@ -27,8 +27,8 @@
 # 		If not given the sizes are going to be from 20 to 25.
 # 	-p (Optional) Is the number of cores/threads that is gonna be used, if not given 1 is going to be used.
 # 	-o Is the place where the directory with the output files is going to be saved
-# 	-x Do not fill the gaps of kmers with N in the groups of interest.
-# 	-y Do not fill the gaps of kmers with N in the other group.
+# 	-x Fill the gaps of kmers with N in the groups of interest.
+# 	-y Fill the gaps of kmers with N in the other group.
 # 	-d If this flag is used the intermediate folder won't be deleted
 
 # Usage of option many_groups:
@@ -79,8 +79,8 @@ print_two_usage() {
 		echo "		If not given the sizes are going to be from 20 to 25."
 		echo "	-p (Optional) Is the number of cores/threads that is gonna be used, if not given 1 is going to be used."
 		echo "	-o Is the place where the directory with the output files is going to be saved"
-		echo "	-x Do not fill the gaps of kmers with N in the groups of interest."
-		echo "	-y Do not fill the gaps of kmers with N in the other group."
+		echo "	-x Fill the gaps of kmers with N in the groups of interest."
+		echo "	-y Fill the gaps of kmers with N in the other group."
 		echo "	-d If this flag is used the intermediate folder won't be deleted"
 }
 
