@@ -134,6 +134,10 @@ Note: the session file and the .tdf files that are needed for genomeview will be
 This program uses the java programs necessary to pass the wig file to the .tdf that the genomeview needs to load the information. And the information of the software can be found here:
 http://genomeview.org/manual/Wig2tdf
 
-### Autors
+### Authors
 Luis Felipe Cedeño Pérez  
 Email: pipecedeno@gmail.com
+
+### Corresponding Authors
+Laura Lucila Gómez Romero
+Email: lgomez@inmegen.gob.mx 
