@@ -139,5 +139,5 @@ Luis Felipe Cedeño Pérez
 Email: pipecedeno@gmail.com
 
 ### Corresponding Authors
-Laura Lucila Gómez Romero
-Email: lgomez@inmegen.gob.mx 
+Laura Lucila Gómez Romero  
+Email: lgomez@inmegen.gob.mx  
