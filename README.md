@@ -1,4 +1,9 @@
 # CovDif
+
+## New Repository  
+This project has been moved to: https://github.com/INMEGEN/CovDif  
+If you are going to use this program please check that new repository, as the last update of this repository is from February 2022.
+
 ## cov_dif.sh
 
 ## Software Description
